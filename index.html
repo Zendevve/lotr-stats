@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Chancery &mdash; a Dúnedain Royal Archive</title>
+<meta name="description" content="171 rulers, 8 royal lines from Tolkien's legendarium, derived from Appendix A/B, the Silmarillion, Unfinished Tales and the History of Middle-earth.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Spectral+SC:wght@600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --parchment: #f4ecd8; --parchment-dark: #ece1c8;
+    --ink: #2b2118; --ink-soft: #5c4f3f; --ink-faint: #8a7c66;
+    --gold: #a8792a; --gold-light: #c9a35f; --gold-pale: #e4cf9c;
+    --rule: #c9bfa4;
+    --font-display: 'Cormorant Garamond', Georgia, serif;
+    --font-caps: 'Spectral SC', 'Cormorant Garamond', Georgia, serif;
+    --font-body: 'EB Garamond', Georgia, serif;
+    --font-mono: 'IBM Plex Mono', 'Courier New', monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; min-height: 100vh; overflow-x: hidden;
+    background: var(--parchment);
+    background-image: radial-gradient(ellipse at top left, rgba(168,121,42,0.07), transparent 45%),
+                       radial-gradient(ellipse at bottom right, rgba(29,78,107,0.06), transparent 45%);
+    color: var(--ink); font-family: var(--font-body); font-size: 18px; line-height: 1.55;
+    display: flex; flex-direction: column;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 0 28px; width: 100%; }
+  a { color: var(--gold); }
+  header { text-align: center; padding: 80px 0 20px 0; }
+  .mark { font-size: 2.2rem; color: var(--gold); margin-bottom: 10px; }
+  .eyebrow { font-family: var(--font-caps); text-transform: uppercase; letter-spacing: 0.15em; font-size: 0.78rem; color: var(--gold); font-weight: 600; }
+  h1 { font-family: var(--font-caps); font-size: clamp(2.4rem, 6vw, 3.6rem); letter-spacing: 0.05em; margin: 10px 0; }
+  .sub { font-family: var(--font-display); font-style: italic; font-size: 1.25rem; color: var(--ink-soft); max-width: 52ch; margin: 10px auto 0 auto; }
+  .stat-line { font-family: var(--font-mono); font-size: 0.8rem; color: var(--ink-faint); margin-top: 22px; }
+
+  main { flex: 1; padding: 40px 0 80px 0; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; margin-top: 20px; }
+  .card {
+    display: block; text-decoration: none; color: var(--ink);
+    background: var(--parchment-dark); border: 1.5px solid var(--rule); border-radius: 12px;
+    padding: 26px 24px; transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  .card:hover { border-color: var(--gold); transform: translateY(-2px); }
+  .card .num { font-family: var(--font-mono); font-size: 0.72rem; color: var(--gold); letter-spacing: 0.1em; }
+  .card h2 { font-family: var(--font-display); font-size: 1.55rem; margin: 8px 0 10px 0; color: var(--ink); }
+  .card p { font-size: 0.94rem; color: var(--ink-soft); margin: 0; line-height: 1.5; }
+  .card .go { display: inline-block; margin-top: 14px; font-family: var(--font-mono); font-size: 0.78rem; color: var(--gold); }
+
+  .resources { margin-top: 50px; padding-top: 30px; border-top: 1px solid var(--rule); }
+  .resources h3 { font-family: var(--font-caps); font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-soft); margin-bottom: 14px; }
+  .res-links { display: flex; gap: 24px; flex-wrap: wrap; font-family: var(--font-mono); font-size: 0.85rem; }
+
+  footer { text-align: center; padding: 30px 0 50px 0; color: var(--ink-faint); font-size: 0.82rem; font-style: italic; }
+  @media (max-width: 640px) { body { font-size: 16.5px; } header { padding: 56px 0 10px 0; } }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="mark">&#9973;</div>
+    <div class="eyebrow">A Data-Driven Chronicle of Tolkien's Legendarium</div>
+    <h1>THE CHANCERY</h1>
+    <p class="sub">Every reigning house of the Dúnedain, and the arithmetic Tolkien never wrote out.</p>
+    <div class="stat-line">171 rulers &middot; 8 royal lines &middot; 0 invented numbers</div>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="cards">
+
+      <a class="card" href="dashboard.html">
+        <div class="num">01 &mdash; INTERACTIVE</div>
+        <h2>The Dashboard</h2>
+        <p>Live filtering, search, and comparison across all 171 rulers. Trace any bloodline as an interactive genealogy chart, or compare any two realms side by side.</p>
+        <span class="go">Open the dashboard &rarr;</span>
+      </a>
+
+      <a class="card" href="kinstrife.html">
+        <div class="num">02 &mdash; NARRATIVE</div>
+        <h2>The Kin-strife</h2>
+        <p>A full illustrated account of Gondor's only civil war &mdash; and the six-hundred-year demographic chain reaction Tolkien says it set off, ending in an empty throne.</p>
+        <span class="go">Read the chronicle &rarr;</span>
+      </a>
+
+      <a class="card" href="notebook.html">
+        <div class="num">03 &mdash; THE ANALYSIS</div>
+        <h2>The Notebook</h2>
+        <p>Where the numbers come from: every chart, every statistic, and the full methodology, derived directly from Appendix A &amp; B, the Silmarillion, and Unfinished Tales.</p>
+        <span class="go">View the analysis &rarr;</span>
+      </a>
+
+    </div>
+
+    <div class="resources">
+      <h3>Raw materials</h3>
+      <div class="res-links">
+        <a href="tolkien_dynasties.ipynb" download>&darr; Download the Jupyter notebook (.ipynb)</a>
+        <a href="data/rulers.csv" download>&darr; Download the dataset (.csv)</a>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer>
+  Data compiled from The Lord of the Rings (Appendix A &amp; B), The Silmarillion, Unfinished Tales,<br>
+  and The Peoples of Middle-earth &middot; cross-checked against Tolkien Gateway and fan-maintained genealogical tables.
+</footer>
+
+</body>
+</html>
