@@ -42,6 +42,7 @@
 
   body {
     margin: 0;
+    overflow-x: hidden;
     background: var(--parchment);
     background-image:
       radial-gradient(ellipse at top left, rgba(168,121,42,0.06), transparent 45%),
@@ -238,7 +239,10 @@
     border-radius: 8px;
     padding: 7px 10px;
     color: var(--ink);
+    max-width: 100%;
+    text-overflow: ellipsis;
   }
+  #chainRealmSelect { max-width: min(100%, 360px); }
 
   .filter-count {
     font-family: var(--font-mono);
@@ -735,12 +739,17 @@ function initChainExplorer() {
 }
 
 function chainSubset(key) {
+  // Note: deliberately NOT filtering on `legit` here, unlike the aggregate stats --
+  // this is a narrative sequence of who actually held power, so usurpers like
+  // Castamir belong in it (with their edges styled as usurpation/restoration).
+  // We do filter on having a real accession date, which naturally excludes
+  // Tar-Miriel (denied the throne, never actually reigned, no accession year).
   if (key === 'isildur') {
-    return RULERS.filter(r => ['Arnor','Arthedain','Chieftains'].includes(r.realm) && r.legit)
+    return RULERS.filter(r => ['Arnor','Arthedain','Chieftains'].includes(r.realm) && r.acc_abs != null)
                  .sort((a,b) => a.acc_abs - b.acc_abs);
   }
-  return RULERS.filter(r => r.realm === key && r.legit)
-               .sort((a,b) => (a.acc_abs ?? 0) - (b.acc_abs ?? 0));
+  return RULERS.filter(r => r.realm === key && r.acc_abs != null)
+               .sort((a,b) => a.acc_abs - b.acc_abs);
 }
 
 function renderChain(key) {
