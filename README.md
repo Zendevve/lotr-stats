@@ -66,3 +66,8 @@ and fan-maintained genealogical tables where the primary text didn't give exact 
 Where sources disagreed or a date had to be inferred rather than stated outright, that's
 flagged in the notebook's methodology notes and in the dataset itself — see the `source`
 and `notes` columns in `data/rulers.csv`.
+
+## License
+
+© 2026 Zendevve. All rights reserved. Licensed for personal, non-commercial use only —
+see the full terms in [LICENSE](LICENSE).
