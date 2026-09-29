@@ -1,79 +1,8 @@
-COPYRIGHT NOTICE AND LIMITED PERSONAL USE TERMS
+MIT License
+Copyright (c) 2026 Zendevve
 
-Project: The Chancery — a Dúnedain Royal Archive
-Description: A data-driven chronicle of Tolkien's legendarium — 171 rulers across 8
-royal lines (Númenor, Arnor, Arthedain, the Chieftains, Gondor, the Ruling Stewards,
-Dol Amroth, and Rohan), with an interactive dashboard, narrative chronicles, and an
-analysis notebook tracing every date to its source.
-Copyright (c) 2026 Zendevve. All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-Source: https://github.com/Zendevve/lotr-stats
-
-
-1. OWNERSHIP
-
-
-The Chancery is proprietary software owned by the copyright holder, except for
-third-party components, the works of J.R.R. Tolkien and the Tolkien Estate
-(including Middle-earth names, characters, and places), and referenced data sources
-which remain the property of their respective owners.
-
-
-2. PERMITTED USE
-
-
-You may download, view, study, fork, and install this software solely for
-personal, non-commercial use.
-
-
-Any copying is permitted only as technically necessary for downloading,
-viewing, forking, installing, backing up, or using the software as distributed
-by the copyright holder.
-
-
-3. RESTRICTIONS
-
-
-Without prior written permission from the copyright holder, you may not:
-
-
-- Modify, edit, rename, reorganize, adapt, or create derivative works from
-  this software or any part of its source code.
-- Redistribute, mirror, re-upload, publish, or host this software or modified
-  versions of it on third-party platforms.
-- Sell, rent, sublicense, monetize, bundle, or include this software in
-  products, services, or commercial offerings.
-- Copy, extract, reuse, port, or incorporate any part of the source code,
-  architecture, logic, or original assets into another project.
-- Remove copyright notices, change attribution, or claim authorship of any
-  part of this software.
-
-
-4. FORKS
-
-
-Forking is permitted only for personal viewing, study, backup, or installation
-purposes. Forks may not be modified, redistributed, published as derivative
-works, or used as the basis for another project without prior written
-permission.
-
-
-5. EMBEDDED LIBRARIES
-
-
-Embedded libraries authored by the copyright holder, if any, are proprietary and
-may be subject to additional restrictions in their own license or copyright notice.
-
-
-6. NO WARRANTY
-
-
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER SHALL
-NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE
-OF THIS SOFTWARE.
-
-
-Any use outside the permissions granted above is prohibited unless explicitly
-authorized in writing by the copyright holder.
+This license applies to original application source. Referenced dataset material in data/raw and public/data (except source.zip) is distributed under CC BY-SA 4.0; see https://creativecommons.org/licenses/by-sa/4.0/ and sources.json for attribution. Tolkien's underlying works and third-party dependencies are excluded from this grant.
