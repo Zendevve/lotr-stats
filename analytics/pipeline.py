@@ -8,7 +8,7 @@ def ordinal(age,year):
  return {'SA':0,'TA':3441,'FA':6462}[age]+year
 
 def build():
- tables={p.stem:json.loads(p.read_text()) for p in (ROOT/'data/raw').glob('*.json')}
+ tables={p.stem:json.loads(p.read_text(encoding='utf-8')) for p in (ROOT/'data/raw').glob('*.json')}
  ps={p['person_id']:p for p in tables['persons']}; offices={o['office_id']:o for o in tables['offices']}; realms={r['realm_id']:r for r in tables['realms']}; src={s['source_id'] for s in tables['sources']}
  assert len(ps)==len(tables['persons'])
  ids=[r['reign_id'] for r in tables['reigns']]; assert len(set(ids))==len(ids)
@@ -46,14 +46,14 @@ def build():
  output=ROOT/'public/data'; output.mkdir(exist_ok=True)
  import pyarrow as pa,pyarrow.parquet as pq
  for name,rows in tables.items():
-  (output/f'{name}.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n')
+  (output/f'{name}.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
   if rows:
    pq.write_table(pa.Table.from_pylist(rows),output/f'{name}.parquet')
-   with (output/f'{name}.csv').open('w') as f:
-    w=csv.DictWriter(f,fieldnames=list(rows[0]));w.writeheader();w.writerows(rows)
+   with (output/f'{name}.csv').open('w',newline='',encoding='utf-8') as f:
+    w=csv.DictWriter(f,fieldnames=list(rows[0]),lineterminator='\n');w.writeheader();w.writerows(rows)
  bundle=dict(persons=tables['persons'],rulers=marts,summaries=summaries,realms=tables['realms'],sources=tables['sources'],relationships=tables['relationships'],events=tables['events'],quality=dict(people=len(ps),tenures=len(marts),eligible=sum(r['eligible'] for r in marts),ruler_count=sum(p['is_ruler'] for p in ps.values()),reviewed_rulers=sum(p['is_ruler'] and p['review_status']=='reviewed' for p in ps.values()),missing_lifespan=sum(p['is_ruler'] and p['death_year'] is None for p in ps.values()),known_ruler_lifespans=len({r['person_id'] for r in marts if r['lifespan'] is not None}),warnings=sum(r['status']!='recorded' for r in marts),validated=True))
- (ROOT/'lib/atlas/data.json').write_text(json.dumps(bundle,ensure_ascii=False)+'\n')
- (output/'atlas.json').write_text(json.dumps(bundle,ensure_ascii=False)+'\n')
+ (ROOT/'lib/atlas/data.json').write_text(json.dumps(bundle,ensure_ascii=False)+'\n',encoding='utf-8')
+ (output/'atlas.json').write_text(json.dumps(bundle,ensure_ascii=False)+'\n',encoding='utf-8')
  print(json.dumps(bundle['quality']))
  return tables
 if __name__=='__main__':build()

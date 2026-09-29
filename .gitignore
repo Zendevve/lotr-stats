@@ -46,3 +46,8 @@ next-env.d.ts
 /work/
 
 *.tsbuildinfo
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
