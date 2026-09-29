@@ -1,0 +1,27 @@
+name: Validate atlas
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: python analytics/pipeline.py
+      - run: python -m unittest discover -s analytics/tests -v
+      - run: git diff --exit-code -- lib/atlas/data.json public/data/*.json public/data/*.csv
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 11.25.0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: node tests/app-logic.mjs
+      - run: node tests/render-app.cjs
+      - run: node tests/sql-engine.mjs
+      - run: pnpm exec tsc --noEmit
+      - run: pnpm build
