@@ -1,0 +1,52 @@
+[
+  {
+    "person_id": "chieftains-aragorn-ii",
+    "name": "Elessar",
+    "source_id": "gondor"
+  },
+  {
+    "person_id": "chieftains-aragorn-ii",
+    "name": "Strider",
+    "source_id": "gondor"
+  },
+  {
+    "person_id": "chieftains-aragorn-ii",
+    "name": "Estel",
+    "source_id": "gondor"
+  },
+  {
+    "person_id": "chieftains-aragorn-ii",
+    "name": "Telcontar",
+    "source_id": "gondor"
+  },
+  {
+    "person_id": "numenor-tar-calmacil",
+    "name": "Ar-Belzagar",
+    "source_id": "numenor"
+  },
+  {
+    "person_id": "numenor-tar-ardamin",
+    "name": "Ar-Abattârik",
+    "source_id": "numenor"
+  },
+  {
+    "person_id": "numenor-tar-palantir",
+    "name": "Ar-Inziladûn",
+    "source_id": "numenor"
+  },
+  {
+    "person_id": "numenor-tar-anducal",
+    "name": "Herucalmo",
+    "source_id": "numenor"
+  },
+  {
+    "person_id": "gondor-eldacar",
+    "name": "Vinitharya",
+    "source_id": "gondor"
+  },
+  {
+    "person_id": "gondor-romendacil-ii",
+    "name": "Minalcar",
+    "source_id": "gondor"
+  }
+]

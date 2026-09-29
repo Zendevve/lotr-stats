@@ -1,0 +1,154 @@
+person_id,canonical_name,slug,house_id,birth_age,birth_year,death_age,death_year,sex,is_ruler,review_status,reported_lifespan,life_note,last_known_age,last_known_year,life_source_id
+numenor-elros-tar-minyatur,Elros Tar-Minyatur,numenor-elros-tar-minyatur,Elros,First Age,532,SA,442,M,True,reviewed,500,Reported lifespan 500; First Age birth is retained without an invented cross-Age ordinal.,,,elros-life
+numenor-vardamir-nolimon,Vardamir Nólimon,numenor-vardamir-nolimon,Elros,SA,61,SA,471,M,True,reviewed,,,,,family-numenor
+numenor-tar-amandil,Tar-Amandil,numenor-tar-amandil,Elros,SA,192,SA,603,M,True,reviewed,,,,,family-numenor
+numenor-tar-elendil,Tar-Elendil,numenor-tar-elendil,Elros,SA,350,SA,751,M,True,reviewed,,,,,family-numenor
+numenor-tar-meneldur,Tar-Meneldur,numenor-tar-meneldur,Elros,SA,543,SA,942,M,True,reviewed,,,,,family-numenor
+numenor-tar-aldarion,Tar-Aldarion,numenor-tar-aldarion,Elros,SA,700,SA,1098,M,True,reviewed,,,,,family-numenor
+numenor-tar-ancalime,Tar-Ancalimë,numenor-tar-ancalime,Elros,SA,873,SA,1285,F,True,reviewed,,,,,family-numenor
+numenor-tar-anarion,Tar-Anárion,numenor-tar-anarion,Elros,SA,1003,SA,1404,M,True,reviewed,,,,,family-numenor
+numenor-tar-surion,Tar-Súrion,numenor-tar-surion,Elros,SA,1174,SA,1574,M,True,reviewed,,,,,family-numenor
+numenor-tar-telperien,Tar-Telperiën,numenor-tar-telperien,Elros,SA,1320,SA,1731,F,True,reviewed,,,,,family-numenor
+numenor-tar-minastir,Tar-Minastir,numenor-tar-minastir,Elros,SA,1474,SA,1873,M,True,reviewed,,,,,family-numenor
+numenor-tar-ciryatan,Tar-Ciryatan,numenor-tar-ciryatan,Elros,SA,1634,SA,2035,M,True,reviewed,,,,,family-numenor
+numenor-tar-atanamir,Tar-Atanamir,numenor-tar-atanamir,Elros,SA,1800,SA,2221,M,True,reviewed,,,,,family-numenor
+numenor-tar-ancalimon,Tar-Ancalimon,numenor-tar-ancalimon,Elros,SA,1986,SA,2386,M,True,reviewed,,,,,family-numenor
+numenor-tar-telemmaite,Tar-Telemmaitë,numenor-tar-telemmaite,Elros,SA,2136,SA,2526,M,True,reviewed,,,,,family-numenor
+numenor-tar-vanimelde,Tar-Vanimeldë,numenor-tar-vanimelde,Elros,SA,2277,SA,2637,F,True,reviewed,,,,,family-numenor
+numenor-tar-anducal,Tar-Anducal,numenor-tar-anducal,Elros,SA,2286,SA,2657,M,True,reviewed,,,,,family-numenor
+numenor-tar-alcarin,Tar-Alcarin,numenor-tar-alcarin,Elros,SA,2406,SA,2737,M,True,reviewed,,,,,family-numenor
+numenor-tar-calmacil,Tar-Calmacil,numenor-tar-calmacil,Elros,SA,2516,SA,2825,M,True,reviewed,,,,,family-numenor
+numenor-tar-ardamin,Tar-Ardamin,numenor-tar-ardamin,Elros,SA,2618,SA,2899,M,True,reviewed,,,,,family-numenor
+numenor-ar-adunakhor,Ar-Adûnakhôr,numenor-ar-adunakhor,Elros,SA,2709,SA,2962,M,True,reviewed,,,,,family-numenor
+numenor-ar-zimrathon,Ar-Zimrathôn,numenor-ar-zimrathon,Elros,SA,2798,SA,3033,M,True,reviewed,,,,,family-numenor
+numenor-ar-sakalthor,Ar-Sakalthôr,numenor-ar-sakalthor,Elros,SA,2876,SA,3102,M,True,reviewed,,,,,family-numenor
+numenor-ar-gimilzor,Ar-Gimilzôr,numenor-ar-gimilzor,Elros,SA,2960,SA,3177,M,True,reviewed,,,,,family-numenor
+numenor-tar-palantir,Tar-Palantir,numenor-tar-palantir,Elros,SA,3035,SA,3255,M,True,reviewed,,,,,family-numenor
+numenor-ar-pharazon,Ar-Pharazôn,numenor-ar-pharazon,Elros,SA,3118,,,M,True,reviewed,,Fate uncertain: said to lie in the Caves of the Forgotten. Downfall is not treated as an ordinary death.,SA,3319,pharazon-fate
+arnor-elendil,Elendil,arnor-elendil,Elendil,SA,3119,SA,3441,M,True,reviewed,,,,,family-north
+arnor-isildur,Isildur,arnor-isildur,Isildur,SA,3209,TA,2,M,True,reviewed,,,,,family-north
+arnor-valandil,Valandil,arnor-valandil,Isildur,SA,3430,TA,249,M,True,reviewed,,,,,family-north
+arnor-eldacar,Eldacar,arnor-eldacar,Isildur,TA,87,TA,339,M,True,reviewed,,,,,family-north
+arnor-arantar,Arantar,arnor-arantar,Isildur,TA,185,TA,435,M,True,reviewed,,,,,family-north
+arnor-tarcil,Tarcil,arnor-tarcil,Isildur,TA,280,TA,515,M,True,reviewed,,,,,family-north
+arnor-tarondor,Tarondor,arnor-tarondor,Isildur,TA,372,TA,602,M,True,reviewed,,,,,family-north
+arnor-valandur,Valandur,arnor-valandur,Isildur,TA,462,TA,652,M,True,reviewed,,,,,family-north
+arnor-elendur,Elendur,arnor-elendur,Isildur,TA,552,TA,777,M,True,reviewed,,,,,family-north
+arnor-earendur,Eärendur,arnor-earendur,Isildur,TA,640,TA,861,M,True,reviewed,,,,,family-north
+arthedain-amlaith,Amlaith,arthedain-amlaith,Isildur,TA,726,TA,946,M,True,reviewed,,,,,family-north
+arthedain-beleg,Beleg,arthedain-beleg,Isildur,TA,812,TA,1029,M,True,reviewed,,,,,family-north
+arthedain-mallor,Mallor,arthedain-mallor,Isildur,TA,895,TA,1110,M,True,reviewed,,,,,family-north
+arthedain-celepharn,Celepharn,arthedain-celepharn,Isildur,TA,979,TA,1191,M,True,reviewed,,,,,family-north
+arthedain-celebrindor,Celebrindor,arthedain-celebrindor,Isildur,TA,1062,TA,1272,M,True,reviewed,,,,,family-north
+arthedain-malvegil,Malvegil,arthedain-malvegil,Isildur,TA,1144,TA,1349,M,True,reviewed,,,,,family-north
+arthedain-argeleb-i,Argeleb I,arthedain-argeleb-i,Isildur,TA,1226,TA,1356,M,True,reviewed,,,,,family-north
+arthedain-arveleg-i,Arveleg I,arthedain-arveleg-i,Isildur,TA,1309,TA,1409,M,True,reviewed,,,,,family-north
+arthedain-araphor,Araphor,arthedain-araphor,Isildur,TA,1391,TA,1589,M,True,reviewed,,,,,family-north
+arthedain-argeleb-ii,Argeleb II,arthedain-argeleb-ii,Isildur,TA,1473,TA,1670,M,True,reviewed,,,,,family-north
+arthedain-arvegil,Arvegil,arthedain-arvegil,Isildur,TA,1553,TA,1743,M,True,reviewed,,,,,family-north
+arthedain-arveleg-ii,Arveleg II,arthedain-arveleg-ii,Isildur,TA,1633,TA,1813,M,True,reviewed,,,,,family-north
+arthedain-araval,Araval,arthedain-araval,Isildur,TA,1711,TA,1891,M,True,reviewed,,,,,family-north
+arthedain-araphant,Araphant,arthedain-araphant,Isildur,TA,1789,TA,1964,M,True,reviewed,,,,,family-north
+arthedain-arvedui,Arvedui,arthedain-arvedui,Isildur,TA,1864,TA,1975,M,True,reviewed,,,,,family-north
+chieftains-aranarth,Aranarth,chieftains-aranarth,Isildur,TA,1938,TA,2106,M,True,reviewed,,,,,family-north
+chieftains-arahael,Arahael,chieftains-arahael,Isildur,TA,2012,TA,2177,M,True,reviewed,,,,,family-north
+chieftains-aranuir,Aranuir,chieftains-aranuir,Isildur,TA,2084,TA,2247,M,True,reviewed,,,,,family-north
+chieftains-aravir,Aravir,chieftains-aravir,Isildur,TA,2156,TA,2319,M,True,reviewed,,,,,family-north
+chieftains-aragorn-i,Aragorn I,chieftains-aragorn-i,Isildur,TA,2227,TA,2327,M,True,reviewed,,,,,family-north
+chieftains-araglas,Araglas,chieftains-araglas,Isildur,TA,2296,TA,2455,M,True,reviewed,,,,,family-north
+chieftains-arahad-i,Arahad I,chieftains-arahad-i,Isildur,TA,2365,TA,2523,M,True,reviewed,,,,,family-north
+chieftains-aragost,Aragost,chieftains-aragost,Isildur,TA,2431,TA,2588,M,True,reviewed,,,,,family-north
+chieftains-aravorn,Aravorn,chieftains-aravorn,Isildur,TA,2497,TA,2654,M,True,reviewed,,,,,family-north
+chieftains-arahad-ii,Arahad II,chieftains-arahad-ii,Isildur,TA,2563,TA,2719,M,True,reviewed,,,,,family-north
+chieftains-arassuil,Arassuil,chieftains-arassuil,Isildur,TA,2628,TA,2784,M,True,reviewed,,,,,family-north
+chieftains-arathorn-i,Arathorn I,chieftains-arathorn-i,Isildur,TA,2693,TA,2848,M,True,reviewed,,,,,family-north
+chieftains-argonui,Argonui,chieftains-argonui,Isildur,TA,2757,TA,2912,M,True,reviewed,,,,,family-north
+chieftains-arador,Arador,chieftains-arador,Isildur,TA,2820,TA,2930,M,True,reviewed,,,,,family-north
+chieftains-arathorn-ii,Arathorn II,chieftains-arathorn-ii,Isildur,TA,2873,TA,2933,M,True,reviewed,,,,,family-north
+chieftains-aragorn-ii,Aragorn II,chieftains-aragorn-ii,Isildur,TA,2931,FA,120,M,True,reviewed,210,Reported age 210 takes precedence over simplified cross-Age year-label subtraction.,,,aragorn-life
+gondor-anarion,Anárion,gondor-anarion,Anárion,SA,3219,SA,3440,M,True,reviewed,,,,,family-gondor
+gondor-meneldil,Meneldil,gondor-meneldil,Anárion,SA,3318,TA,158,M,True,reviewed,,,,,family-gondor
+gondor-cemendur,Cemendur,gondor-cemendur,Anárion,SA,3399,TA,238,M,True,reviewed,,,,,family-gondor
+gondor-earendil,Eärendil,gondor-earendil,Anárion,TA,48,TA,324,M,True,reviewed,,,,,family-gondor
+gondor-anardil,Anardil,gondor-anardil,Anárion,TA,136,TA,411,M,True,reviewed,,,,,family-gondor
+gondor-ostoher,Ostoher,gondor-ostoher,Anárion,TA,222,TA,492,M,True,reviewed,,,,,family-gondor
+gondor-romendacil-i,Rómendacil I,gondor-romendacil-i,Anárion,TA,310,TA,541,M,True,reviewed,,,,,family-gondor
+gondor-turambar,Turambar,gondor-turambar,Anárion,TA,397,TA,667,M,True,reviewed,,,,,family-gondor
+gondor-atanatar-i,Atanatar I,gondor-atanatar-i,Anárion,TA,480,TA,748,M,True,reviewed,,,,,family-gondor
+gondor-siriondil,Siriondil,gondor-siriondil,Anárion,TA,570,TA,830,M,True,reviewed,,,,,family-gondor
+gondor-tarannon-falastur,Tarannon Falastur,gondor-tarannon-falastur,Anárion,TA,654,TA,913,M,True,reviewed,,,,,family-gondor
+gondor-earnil-i,Eärnil I,gondor-earnil-i,Anárion,TA,736,TA,936,M,True,reviewed,,,,,family-gondor
+gondor-ciryandil,Ciryandil,gondor-ciryandil,Anárion,TA,820,TA,1015,M,True,reviewed,,,,,family-gondor
+gondor-hyarmendacil-i,Hyarmendacil I,gondor-hyarmendacil-i,Anárion,TA,899,TA,1149,M,True,reviewed,,,,,family-gondor
+gondor-atanatar-ii-alcarin,Atanatar II Alcarin,gondor-atanatar-ii-alcarin,Anárion,TA,977,TA,1226,M,True,reviewed,,,,,family-gondor
+gondor-narmacil-i,Narmacil I,gondor-narmacil-i,Anárion,TA,1049,TA,1294,M,True,reviewed,,,,,family-gondor
+gondor-calmacil,Calmacil,gondor-calmacil,Anárion,TA,1058,TA,1304,M,True,reviewed,,,,,family-gondor
+gondor-romendacil-ii,Rómendacil II,gondor-romendacil-ii,Anárion,TA,1126,TA,1366,M,True,reviewed,,,,,family-gondor
+gondor-valacar,Valacar,gondor-valacar,Anárion,TA,1194,TA,1432,M,True,reviewed,,,,,family-gondor
+gondor-eldacar,Eldacar,gondor-eldacar,Anárion,TA,1255,TA,1490,M,True,reviewed,,,,,family-gondor
+gondor-castamir,Castamir,gondor-castamir,Anárion,TA,1259,TA,1447,M,True,reviewed,,,,,family-gondor
+gondor-aldamir,Aldamir,gondor-aldamir,Anárion,TA,1330,TA,1540,M,True,reviewed,,,,,family-gondor
+gondor-hyarmendacil-ii,Hyarmendacil II,gondor-hyarmendacil-ii,Anárion,TA,1391,TA,1621,M,True,reviewed,,,,,family-gondor
+gondor-minardil,Minardil,gondor-minardil,Anárion,TA,1454,TA,1634,M,True,reviewed,,,,,minardil-life
+gondor-telemnar,Telemnar,gondor-telemnar,Anárion,TA,1516,TA,1636,M,True,reviewed,,,,,family-gondor
+gondor-tarondor,Tarondor,gondor-tarondor,Anárion,TA,1577,TA,1798,M,True,reviewed,,,,,family-gondor
+gondor-telumehtar-umbardacil,Telumehtar Umbardacil,gondor-telumehtar-umbardacil,Anárion,TA,1632,TA,1850,M,True,reviewed,,,,,family-gondor
+gondor-narmacil-ii,Narmacil II,gondor-narmacil-ii,Anárion,TA,1684,TA,1856,M,True,reviewed,,,,,family-gondor
+gondor-calimehtar,Calimehtar,gondor-calimehtar,Anárion,TA,1736,TA,1936,M,True,reviewed,,,,,family-gondor
+gondor-ondoher,Ondoher,gondor-ondoher,Anárion,TA,1787,TA,1944,M,True,reviewed,,,,,family-gondor
+gondor-earnil-ii,Eärnil II,gondor-earnil-ii,Anárion,TA,1883,TA,2043,M,True,reviewed,,,,,family-gondor
+gondor-earnur,Eärnur,gondor-earnur,Anárion,TA,1928,,,M,True,reviewed,,Disappeared after accepting the challenge at Minas Morgul in TA 2050; death date unknown.,TA,2050,earnur-fate
+stewards-mardil-voronwe,Mardil Voronwë,stewards-mardil-voronwe,Húrin,TA,1960,TA,2080,M,True,reviewed,,,,,family-stewards
+stewards-eradan,Eradan,stewards-eradan,Húrin,TA,1999,TA,2116,M,True,reviewed,,,,,family-stewards
+stewards-herion,Herion,stewards-herion,Húrin,TA,2037,TA,2148,M,True,reviewed,,,,,family-stewards
+stewards-belegorn,Belegorn,stewards-belegorn,Húrin,TA,2074,TA,2204,M,True,reviewed,,,,,family-stewards
+stewards-hurin-i,Húrin I,stewards-hurin-i,Húrin,TA,2124,TA,2244,M,True,reviewed,,,,,family-stewards
+stewards-turin-i,Túrin I,stewards-turin-i,Húrin,TA,2165,TA,2278,M,True,reviewed,,,,,family-stewards
+stewards-hador,Hador,stewards-hador,Húrin,TA,2245,TA,2395,M,True,reviewed,,,,,family-stewards
+stewards-barahir,Barahir,stewards-barahir,Húrin,TA,2290,TA,2412,M,True,reviewed,,,,,family-stewards
+stewards-dior,Dior,stewards-dior,Húrin,TA,2328,TA,2435,M,True,reviewed,,,,,family-stewards
+stewards-denethor-i,Denethor I,stewards-denethor-i,Húrin,TA,2375,TA,2477,M,True,reviewed,,,,,family-stewards
+stewards-boromir,Boromir,stewards-boromir,Húrin,TA,2410,TA,2489,M,True,reviewed,,,,,family-stewards
+stewards-cirion,Cirion,stewards-cirion,Húrin,TA,2449,TA,2567,M,True,reviewed,,,,,family-stewards
+stewards-hallas,Hallas,stewards-hallas,Húrin,TA,2480,TA,2605,M,True,reviewed,,,,,family-stewards
+stewards-hurin-ii,Húrin II,stewards-hurin-ii,Húrin,TA,2515,TA,2628,M,True,reviewed,,,,,family-stewards
+stewards-belecthor-i,Belecthor I,stewards-belecthor-i,Húrin,TA,2545,TA,2655,M,True,reviewed,,,,,family-stewards
+stewards-orodreth,Orodreth,stewards-orodreth,Húrin,TA,2576,TA,2685,M,True,reviewed,,,,,family-stewards
+stewards-ecthelion-i,Ecthelion I,stewards-ecthelion-i,Húrin,TA,2600,TA,2698,M,True,reviewed,,,,,family-stewards
+stewards-egalmoth,Egalmoth,stewards-egalmoth,Húrin,TA,2626,TA,2743,M,True,reviewed,,,,,family-stewards
+stewards-beren,Beren,stewards-beren,Húrin,TA,2655,TA,2763,M,True,reviewed,,,,,family-stewards
+stewards-beregond,Beregond,stewards-beregond,Húrin,TA,2700,TA,2811,M,True,reviewed,,,,,family-stewards
+stewards-belecthor-ii,Belecthor II,stewards-belecthor-ii,Húrin,TA,2752,TA,2872,M,True,reviewed,,,,,family-stewards
+stewards-thorondir,Thorondir,stewards-thorondir,Húrin,TA,2782,TA,2882,M,True,reviewed,,,,,family-stewards
+stewards-turin-ii,Túrin II,stewards-turin-ii,Húrin,TA,2815,TA,2914,M,True,reviewed,,,,,family-stewards
+stewards-turgon,Turgon,stewards-turgon,Húrin,TA,2855,TA,2953,M,True,reviewed,,,,,family-stewards
+stewards-ecthelion-ii,Ecthelion II,stewards-ecthelion-ii,Húrin,TA,2886,TA,2984,M,True,reviewed,,,,,family-stewards
+stewards-denethor-ii,Denethor II,stewards-denethor-ii,Húrin,TA,2930,TA,3019,M,True,reviewed,,,,,family-stewards
+family-isilmo,Isilmo,family-isilmo,Elros,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-gimilkhad,Gimilkhâd,family-gimilkhad,Elros,SA,3044,SA,3243,M,False,reviewed,,,,,family-numenor
+family-miriel,Tar-Míriel,family-miriel,Elros,SA,3117,SA,3319,F,False,reviewed,,,,,family-numenor
+family-inzilbeth,Inzilbêth,family-inzilbeth,Elros,,,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-silmarien,Silmariën,family-silmarien,Elros,SA,521,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-elatan,Elatan,family-elatan,Elros,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-valandil-andunie,Valandil of Andúnië,family-valandil-andunie,Elros,SA,630,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-numendil,Númendil,family-numendil,Elros,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-amandil,Amandil of Andúnië,family-amandil,Elros,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-earendil-halfelven,Eärendil the Half-elven,family-earendil-halfelven,Elros,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-elwing,Elwing,family-elwing,Elros,,,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-almarian,Almarian,family-almarian,Elros,,,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-numenor
+family-erendis,Erendis,family-erendis,Elros,SA,771,SA,985,F,False,reviewed,,,,,family-numenor
+family-hallacar,Hallacar,family-hallacar,Elros,SA,852,SA,1211,M,False,reviewed,,,,,family-numenor
+family-tarciryan,Tarciryan,family-tarciryan,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-calimehtar-prince,"Calimehtar, son of Calmacil",family-calimehtar-prince,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-vidumavi,Vidumavi,family-vidumavi,Anárion,,,TA,1332,F,False,reviewed,,,,,family-gondor
+family-minastan,Minastan,family-minastan,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-arciryas,Arciryas,family-arciryas,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-calimmacil,Calimmacil,family-calimmacil,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-siriondil-prince,"Siriondil, father of Eärnil II",family-siriondil-prince,Anárion,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-firiel,Fíriel,family-firiel,Anárion,TA,1896,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-gondor
+family-gilraen,Gilraen,family-gilraen,Isildur,TA,2907,TA,3007,F,False,reviewed,,,,,family-north
+family-rian,"Rían, daughter of Barahir",family-rian,Húrin,,,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-stewards
+family-morwen,"Morwen, daughter of Belecthor I",family-morwen,Húrin,,,,,F,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-stewards
+family-vorondil,Vorondil,family-vorondil,Húrin,TA,1919,TA,2029,M,False,reviewed,,,,,family-stewards
+family-pelendur,Pelendur,family-pelendur,Húrin,TA,1879,TA,1998,M,False,reviewed,,,,,family-stewards
+family-hurin-emyn-arnen,Húrin of Emyn Arnen,family-hurin-emyn-arnen,Húrin,,,,,M,False,reviewed,,"Death date not supplied by the cited genealogy; supporting relative, excluded from ruler coverage counts.",,,family-stewards

@@ -1,0 +1,8 @@
+realm_id,realm_name,n,mean,median,minimum,maximum,variance,lifespan_known
+numenor,Númenor,23,139.22,140,63,410,5277.91,23
+arnor,Arnor,10,98.2,88.5,2,247,3568.76,10
+arthedain,Arthedain,15,74.2,78,7,180,1380.16,15
+chieftains,Chieftains,15,60.87,65,3,128,905.18,15
+gondor,Gondor,31,65.71,77,2,162,1827.43,30
+stewards,Ruling Stewards,26,37.27,33.0,10,117,482.66,26
+reunited,Reunited Kingdom,1,122,122,122,122,0,1

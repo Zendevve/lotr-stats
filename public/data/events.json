@@ -1,0 +1,82 @@
+[
+  {
+    "event_id": "downfall-of-numenor",
+    "name": "Downfall of Númenor",
+    "age": "SA",
+    "year": 3319,
+    "realm_id": "numenor",
+    "source_id": "numenor"
+  },
+  {
+    "event_id": "realms-in-exile-founded",
+    "name": "Realms in Exile founded",
+    "age": "SA",
+    "year": 3320,
+    "realm_id": "arnor",
+    "source_id": "arnor"
+  },
+  {
+    "event_id": "end-of-the-last-alliance",
+    "name": "End of the Last Alliance",
+    "age": "SA",
+    "year": 3441,
+    "realm_id": "gondor",
+    "source_id": "gondor"
+  },
+  {
+    "event_id": "division-of-arnor",
+    "name": "Division of Arnor",
+    "age": "TA",
+    "year": 861,
+    "realm_id": "arnor",
+    "source_id": "arnor"
+  },
+  {
+    "event_id": "kin-strife-usurpation",
+    "name": "Kin-strife: usurpation",
+    "age": "TA",
+    "year": 1437,
+    "realm_id": "gondor",
+    "source_id": "gondor"
+  },
+  {
+    "event_id": "eldacar-restored",
+    "name": "Eldacar restored",
+    "age": "TA",
+    "year": 1447,
+    "realm_id": "gondor",
+    "source_id": "gondor"
+  },
+  {
+    "event_id": "great-plague",
+    "name": "Great Plague",
+    "age": "TA",
+    "year": 1636,
+    "realm_id": "gondor",
+    "source_id": "gondor"
+  },
+  {
+    "event_id": "fall-of-arthedain",
+    "name": "Fall of Arthedain",
+    "age": "TA",
+    "year": 1974,
+    "realm_id": "arthedain",
+    "source_id": "arthedain"
+  },
+  {
+    "event_id": "disappearance-of-earnur",
+    "name": "Disappearance of Eärnur",
+    "age": "TA",
+    "year": 2050,
+    "realm_id": "gondor",
+    "source_id": "gondor"
+  },
+  {
+    "event_id": "restoration-of-kingship",
+    "name": "Restoration of kingship",
+    "age": "TA",
+    "year": 3019,
+    "realm_id": "reunited",
+    "source_id": "reunited"
+  }
+]

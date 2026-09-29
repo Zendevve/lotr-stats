@@ -1,0 +1,154 @@
+[
+  {
+    "source_id": "numenor",
+    "title": "Tolkien Gateway: King of Númenor",
+    "url": "https://tolkiengateway.net/wiki/King_of_Númenor",
+    "reference": "Unfinished Tales, The Line of Elros",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "arnor",
+    "title": "Tolkien Gateway: King of Arnor",
+    "url": "https://tolkiengateway.net/wiki/King_of_Arnor",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "arthedain",
+    "title": "Tolkien Gateway: King of Arthedain",
+    "url": "https://tolkiengateway.net/wiki/King_of_Arthedain",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "chieftains",
+    "title": "Tolkien Gateway: Chieftain of the Dúnedain",
+    "url": "https://tolkiengateway.net/wiki/Chieftain_of_the_Dúnedain",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "gondor",
+    "title": "Tolkien Gateway: King of Gondor",
+    "url": "https://tolkiengateway.net/wiki/King_of_Gondor",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "stewards",
+    "title": "Tolkien Gateway: Stewards",
+    "url": "https://tolkiengateway.net/wiki/Stewards",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "reunited",
+    "title": "Tolkien Gateway: Aragorn",
+    "url": "https://tolkiengateway.net/wiki/Aragorn",
+    "reference": "The Lord of the Rings, Appendices A and B",
+    "accessed": "2026-09-28",
+    "status": "Secondary reference checked; primary citation supplied for review"
+  },
+  {
+    "source_id": "lifespans",
+    "title": "Zarkanya: recorded Númenórean lifespans, Appendix 1",
+    "url": "https://www.zarkanya.net/Tolkien/Decline%20of%20the%20Numenoreans.htm",
+    "reference": "Unfinished Tales, The Line of Elros",
+    "accessed": "2026-09-28",
+    "status": "Recorded dates only; speculative estimates excluded"
+  },
+  {
+    "source_id": "family-numenor",
+    "title": "Tolkien Gateway: House of Elros",
+    "url": "https://tolkiengateway.net/wiki/House_of_Elros",
+    "reference": "Unfinished Tales, The Line of Elros; The Silmarillion, Akallabêth",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "family-north",
+    "title": "Tolkien Gateway: House of Isildur",
+    "url": "https://tolkiengateway.net/wiki/House_of_Isildur",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "family-gondor",
+    "title": "Tolkien Gateway: House of Anárion",
+    "url": "https://tolkiengateway.net/wiki/House_of_Anárion",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "family-stewards",
+    "title": "Tolkien Gateway: House of Húrin",
+    "url": "https://tolkiengateway.net/wiki/House_of_Húrin",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "elros-life",
+    "title": "Tolkien Gateway: Elros",
+    "url": "https://tolkiengateway.net/wiki/Elros",
+    "reference": "The War of the Jewels, The Tale of Years; Unfinished Tales, The Line of Elros",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "aragorn-life",
+    "title": "Tolkien Gateway: Aragorn",
+    "url": "https://tolkiengateway.net/wiki/Aragorn",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "minardil-life",
+    "title": "Tolkien Gateway: Minardil",
+    "url": "https://tolkiengateway.net/wiki/Minardil",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "pharazon-fate",
+    "title": "Tolkien Gateway: Ar-Pharazôn",
+    "url": "https://tolkiengateway.net/wiki/Ar-Pharazôn",
+    "reference": "The Silmarillion, Akallabêth; Unfinished Tales, The Line of Elros",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "earnur-fate",
+    "title": "Tolkien Gateway: Eärnur",
+    "url": "https://tolkiengateway.net/wiki/Eärnur",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "gilraen-life",
+    "title": "Tolkien Gateway: Gilraen",
+    "url": "https://tolkiengateway.net/wiki/Gilraen",
+    "reference": "The Lord of the Rings, Appendix A; The Peoples of Middle-earth, The Heirs of Elendil",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  },
+  {
+    "source_id": "herucalmo-family",
+    "title": "Tolkien Gateway: Herucalmo",
+    "url": "https://tolkiengateway.net/wiki/Herucalmo",
+    "reference": "Unfinished Tales, The Line of Elros",
+    "accessed": "2026-09-29",
+    "status": "Secondary genealogy and date reference reviewed; primary citation supplied"
+  }
+]

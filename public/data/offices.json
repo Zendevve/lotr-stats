@@ -1,0 +1,44 @@
+[
+  {
+    "office_id": "numenor",
+    "realm_id": "numenor",
+    "name": "Monarch",
+    "house_id": "Elros"
+  },
+  {
+    "office_id": "arnor",
+    "realm_id": "arnor",
+    "name": "King",
+    "house_id": "Isildur"
+  },
+  {
+    "office_id": "arthedain",
+    "realm_id": "arthedain",
+    "name": "King",
+    "house_id": "Isildur"
+  },
+  {
+    "office_id": "chieftains",
+    "realm_id": "chieftains",
+    "name": "Chieftain",
+    "house_id": "Isildur"
+  },
+  {
+    "office_id": "gondor",
+    "realm_id": "gondor",
+    "name": "King",
+    "house_id": "Anárion"
+  },
+  {
+    "office_id": "stewards",
+    "realm_id": "stewards",
+    "name": "Ruling Steward",
+    "house_id": "Húrin"
+  },
+  {
+    "office_id": "reunited",
+    "realm_id": "reunited",
+    "name": "High King",
+    "house_id": "Telcontar"
+  }
+]

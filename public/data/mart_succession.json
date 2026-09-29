@@ -1,0 +1,647 @@
+[
+  {
+    "reign_id": "numenor-numenor-elros-tar-minyatur-32",
+    "realm_name": "Númenor",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "numenor-numenor-vardamir-nolimon-442",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-amandil-443",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-elendil-590",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-meneldur-740",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-aldarion-883",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-ancalime-1075",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-anarion-1280",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-surion-1394",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-telperien-1556",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-minastir-1731",
+    "realm_name": "Númenor",
+    "succession_type": "nephew / niece"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-ciryatan-1869",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-atanamir-2029",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-ancalimon-2221",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-telemmaite-2386",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-vanimelde-2526",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-anducal-2637",
+    "realm_name": "Númenor",
+    "succession_type": "usurpation"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-alcarin-2657",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-calmacil-2737",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-ardamin-2825",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-ar-adunakhor-2899",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-ar-zimrathon-2962",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-ar-sakalthor-3033",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-ar-gimilzor-3102",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-tar-palantir-3177",
+    "realm_name": "Númenor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "numenor-numenor-ar-pharazon-3255",
+    "realm_name": "Númenor",
+    "succession_type": "usurpation"
+  },
+  {
+    "reign_id": "arnor-arnor-elendil-3320",
+    "realm_name": "Arnor",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "arnor-arnor-isildur-3441",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-valandil-2",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-eldacar-249",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-arantar-339",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-tarcil-435",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-tarondor-515",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-valandur-602",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-elendur-652",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arnor-arnor-earendur-777",
+    "realm_name": "Arnor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-amlaith-861",
+    "realm_name": "Arthedain",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "arthedain-arthedain-beleg-946",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-mallor-1029",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-celepharn-1110",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-celebrindor-1191",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-malvegil-1272",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-argeleb-i-1349",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-arveleg-i-1356",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-araphor-1409",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-argeleb-ii-1589",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-arvegil-1670",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-arveleg-ii-1743",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-araval-1813",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-araphant-1891",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "arthedain-arthedain-arvedui-1964",
+    "realm_name": "Arthedain",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aranarth-1976",
+    "realm_name": "Chieftains",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arahael-2106",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aranuir-2177",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aravir-2247",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aragorn-i-2319",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-araglas-2327",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arahad-i-2455",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aragost-2523",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aravorn-2588",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arahad-ii-2654",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arassuil-2719",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arathorn-i-2784",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-argonui-2848",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arador-2912",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-arathorn-ii-2930",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "chieftains-chieftains-aragorn-ii-2933",
+    "realm_name": "Chieftains",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-arnor-elendil-3320",
+    "realm_name": "Gondor",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "gondor-gondor-anarion-3320",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-arnor-isildur-3320",
+    "realm_name": "Gondor",
+    "succession_type": "sibling"
+  },
+  {
+    "reign_id": "gondor-gondor-meneldil-2",
+    "realm_name": "Gondor",
+    "succession_type": "nephew / niece"
+  },
+  {
+    "reign_id": "gondor-gondor-cemendur-158",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-earendil-238",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-anardil-324",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-ostoher-411",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-romendacil-i-492",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-turambar-541",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-atanatar-i-667",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-siriondil-748",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-tarannon-falastur-830",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-earnil-i-913",
+    "realm_name": "Gondor",
+    "succession_type": "nephew / niece"
+  },
+  {
+    "reign_id": "gondor-gondor-ciryandil-936",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-hyarmendacil-i-1015",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-atanatar-ii-alcarin-1149",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-narmacil-i-1226",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-calmacil-1294",
+    "realm_name": "Gondor",
+    "succession_type": "sibling"
+  },
+  {
+    "reign_id": "gondor-gondor-romendacil-ii-1304",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-valacar-1366",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-eldacar-1432",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-castamir-1437",
+    "realm_name": "Gondor",
+    "succession_type": "usurpation"
+  },
+  {
+    "reign_id": "gondor-gondor-eldacar-1447",
+    "realm_name": "Gondor",
+    "succession_type": "restoration"
+  },
+  {
+    "reign_id": "gondor-gondor-aldamir-1490",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-hyarmendacil-ii-1540",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-minardil-1621",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-telemnar-1634",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-tarondor-1636",
+    "realm_name": "Gondor",
+    "succession_type": "nephew / niece"
+  },
+  {
+    "reign_id": "gondor-gondor-telumehtar-umbardacil-1798",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-narmacil-ii-1850",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-calimehtar-1856",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-ondoher-1936",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "gondor-gondor-earnil-ii-1945",
+    "realm_name": "Gondor",
+    "succession_type": "collateral dynastic succession"
+  },
+  {
+    "reign_id": "gondor-gondor-earnur-2043",
+    "realm_name": "Gondor",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-mardil-voronwe-2050",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "foundation / new office"
+  },
+  {
+    "reign_id": "stewards-stewards-eradan-2080",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-herion-2116",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-belegorn-2148",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-hurin-i-2204",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-turin-i-2244",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-hador-2278",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-barahir-2395",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-dior-2412",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-denethor-i-2435",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "nephew / niece"
+  },
+  {
+    "reign_id": "stewards-stewards-boromir-2477",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-cirion-2489",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-hallas-2567",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-hurin-ii-2605",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-belecthor-i-2628",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-orodreth-2655",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-ecthelion-i-2685",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-egalmoth-2698",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "collateral dynastic succession"
+  },
+  {
+    "reign_id": "stewards-stewards-beren-2743",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-beregond-2763",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-belecthor-ii-2811",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-thorondir-2872",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-turin-ii-2882",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-turgon-2914",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-ecthelion-ii-2953",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "stewards-stewards-denethor-ii-2984",
+    "realm_name": "Ruling Stewards",
+    "succession_type": "parent-child"
+  },
+  {
+    "reign_id": "reunited-chieftains-aragorn-ii-3019",
+    "realm_name": "Reunited Kingdom",
+    "succession_type": "foundation / new office"
+  }
+]

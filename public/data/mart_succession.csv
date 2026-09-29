@@ -1,0 +1,130 @@
+reign_id,realm_name,succession_type
+numenor-numenor-elros-tar-minyatur-32,Númenor,foundation / new office
+numenor-numenor-vardamir-nolimon-442,Númenor,parent-child
+numenor-numenor-tar-amandil-443,Númenor,parent-child
+numenor-numenor-tar-elendil-590,Númenor,parent-child
+numenor-numenor-tar-meneldur-740,Númenor,parent-child
+numenor-numenor-tar-aldarion-883,Númenor,parent-child
+numenor-numenor-tar-ancalime-1075,Númenor,parent-child
+numenor-numenor-tar-anarion-1280,Númenor,parent-child
+numenor-numenor-tar-surion-1394,Númenor,parent-child
+numenor-numenor-tar-telperien-1556,Númenor,parent-child
+numenor-numenor-tar-minastir-1731,Númenor,nephew / niece
+numenor-numenor-tar-ciryatan-1869,Númenor,parent-child
+numenor-numenor-tar-atanamir-2029,Númenor,parent-child
+numenor-numenor-tar-ancalimon-2221,Númenor,parent-child
+numenor-numenor-tar-telemmaite-2386,Númenor,parent-child
+numenor-numenor-tar-vanimelde-2526,Númenor,parent-child
+numenor-numenor-tar-anducal-2637,Númenor,usurpation
+numenor-numenor-tar-alcarin-2657,Númenor,parent-child
+numenor-numenor-tar-calmacil-2737,Númenor,parent-child
+numenor-numenor-tar-ardamin-2825,Númenor,parent-child
+numenor-numenor-ar-adunakhor-2899,Númenor,parent-child
+numenor-numenor-ar-zimrathon-2962,Númenor,parent-child
+numenor-numenor-ar-sakalthor-3033,Númenor,parent-child
+numenor-numenor-ar-gimilzor-3102,Númenor,parent-child
+numenor-numenor-tar-palantir-3177,Númenor,parent-child
+numenor-numenor-ar-pharazon-3255,Númenor,usurpation
+arnor-arnor-elendil-3320,Arnor,foundation / new office
+arnor-arnor-isildur-3441,Arnor,parent-child
+arnor-arnor-valandil-2,Arnor,parent-child
+arnor-arnor-eldacar-249,Arnor,parent-child
+arnor-arnor-arantar-339,Arnor,parent-child
+arnor-arnor-tarcil-435,Arnor,parent-child
+arnor-arnor-tarondor-515,Arnor,parent-child
+arnor-arnor-valandur-602,Arnor,parent-child
+arnor-arnor-elendur-652,Arnor,parent-child
+arnor-arnor-earendur-777,Arnor,parent-child
+arthedain-arthedain-amlaith-861,Arthedain,foundation / new office
+arthedain-arthedain-beleg-946,Arthedain,parent-child
+arthedain-arthedain-mallor-1029,Arthedain,parent-child
+arthedain-arthedain-celepharn-1110,Arthedain,parent-child
+arthedain-arthedain-celebrindor-1191,Arthedain,parent-child
+arthedain-arthedain-malvegil-1272,Arthedain,parent-child
+arthedain-arthedain-argeleb-i-1349,Arthedain,parent-child
+arthedain-arthedain-arveleg-i-1356,Arthedain,parent-child
+arthedain-arthedain-araphor-1409,Arthedain,parent-child
+arthedain-arthedain-argeleb-ii-1589,Arthedain,parent-child
+arthedain-arthedain-arvegil-1670,Arthedain,parent-child
+arthedain-arthedain-arveleg-ii-1743,Arthedain,parent-child
+arthedain-arthedain-araval-1813,Arthedain,parent-child
+arthedain-arthedain-araphant-1891,Arthedain,parent-child
+arthedain-arthedain-arvedui-1964,Arthedain,parent-child
+chieftains-chieftains-aranarth-1976,Chieftains,foundation / new office
+chieftains-chieftains-arahael-2106,Chieftains,parent-child
+chieftains-chieftains-aranuir-2177,Chieftains,parent-child
+chieftains-chieftains-aravir-2247,Chieftains,parent-child
+chieftains-chieftains-aragorn-i-2319,Chieftains,parent-child
+chieftains-chieftains-araglas-2327,Chieftains,parent-child
+chieftains-chieftains-arahad-i-2455,Chieftains,parent-child
+chieftains-chieftains-aragost-2523,Chieftains,parent-child
+chieftains-chieftains-aravorn-2588,Chieftains,parent-child
+chieftains-chieftains-arahad-ii-2654,Chieftains,parent-child
+chieftains-chieftains-arassuil-2719,Chieftains,parent-child
+chieftains-chieftains-arathorn-i-2784,Chieftains,parent-child
+chieftains-chieftains-argonui-2848,Chieftains,parent-child
+chieftains-chieftains-arador-2912,Chieftains,parent-child
+chieftains-chieftains-arathorn-ii-2930,Chieftains,parent-child
+chieftains-chieftains-aragorn-ii-2933,Chieftains,parent-child
+gondor-arnor-elendil-3320,Gondor,foundation / new office
+gondor-gondor-anarion-3320,Gondor,parent-child
+gondor-arnor-isildur-3320,Gondor,sibling
+gondor-gondor-meneldil-2,Gondor,nephew / niece
+gondor-gondor-cemendur-158,Gondor,parent-child
+gondor-gondor-earendil-238,Gondor,parent-child
+gondor-gondor-anardil-324,Gondor,parent-child
+gondor-gondor-ostoher-411,Gondor,parent-child
+gondor-gondor-romendacil-i-492,Gondor,parent-child
+gondor-gondor-turambar-541,Gondor,parent-child
+gondor-gondor-atanatar-i-667,Gondor,parent-child
+gondor-gondor-siriondil-748,Gondor,parent-child
+gondor-gondor-tarannon-falastur-830,Gondor,parent-child
+gondor-gondor-earnil-i-913,Gondor,nephew / niece
+gondor-gondor-ciryandil-936,Gondor,parent-child
+gondor-gondor-hyarmendacil-i-1015,Gondor,parent-child
+gondor-gondor-atanatar-ii-alcarin-1149,Gondor,parent-child
+gondor-gondor-narmacil-i-1226,Gondor,parent-child
+gondor-gondor-calmacil-1294,Gondor,sibling
+gondor-gondor-romendacil-ii-1304,Gondor,parent-child
+gondor-gondor-valacar-1366,Gondor,parent-child
+gondor-gondor-eldacar-1432,Gondor,parent-child
+gondor-gondor-castamir-1437,Gondor,usurpation
+gondor-gondor-eldacar-1447,Gondor,restoration
+gondor-gondor-aldamir-1490,Gondor,parent-child
+gondor-gondor-hyarmendacil-ii-1540,Gondor,parent-child
+gondor-gondor-minardil-1621,Gondor,parent-child
+gondor-gondor-telemnar-1634,Gondor,parent-child
+gondor-gondor-tarondor-1636,Gondor,nephew / niece
+gondor-gondor-telumehtar-umbardacil-1798,Gondor,parent-child
+gondor-gondor-narmacil-ii-1850,Gondor,parent-child
+gondor-gondor-calimehtar-1856,Gondor,parent-child
+gondor-gondor-ondoher-1936,Gondor,parent-child
+gondor-gondor-earnil-ii-1945,Gondor,collateral dynastic succession
+gondor-gondor-earnur-2043,Gondor,parent-child
+stewards-stewards-mardil-voronwe-2050,Ruling Stewards,foundation / new office
+stewards-stewards-eradan-2080,Ruling Stewards,parent-child
+stewards-stewards-herion-2116,Ruling Stewards,parent-child
+stewards-stewards-belegorn-2148,Ruling Stewards,parent-child
+stewards-stewards-hurin-i-2204,Ruling Stewards,parent-child
+stewards-stewards-turin-i-2244,Ruling Stewards,parent-child
+stewards-stewards-hador-2278,Ruling Stewards,parent-child
+stewards-stewards-barahir-2395,Ruling Stewards,parent-child
+stewards-stewards-dior-2412,Ruling Stewards,parent-child
+stewards-stewards-denethor-i-2435,Ruling Stewards,nephew / niece
+stewards-stewards-boromir-2477,Ruling Stewards,parent-child
+stewards-stewards-cirion-2489,Ruling Stewards,parent-child
+stewards-stewards-hallas-2567,Ruling Stewards,parent-child
+stewards-stewards-hurin-ii-2605,Ruling Stewards,parent-child
+stewards-stewards-belecthor-i-2628,Ruling Stewards,parent-child
+stewards-stewards-orodreth-2655,Ruling Stewards,parent-child
+stewards-stewards-ecthelion-i-2685,Ruling Stewards,parent-child
+stewards-stewards-egalmoth-2698,Ruling Stewards,collateral dynastic succession
+stewards-stewards-beren-2743,Ruling Stewards,parent-child
+stewards-stewards-beregond-2763,Ruling Stewards,parent-child
+stewards-stewards-belecthor-ii-2811,Ruling Stewards,parent-child
+stewards-stewards-thorondir-2872,Ruling Stewards,parent-child
+stewards-stewards-turin-ii-2882,Ruling Stewards,parent-child
+stewards-stewards-turgon-2914,Ruling Stewards,parent-child
+stewards-stewards-ecthelion-ii-2953,Ruling Stewards,parent-child
+stewards-stewards-denethor-ii-2984,Ruling Stewards,parent-child
+reunited-chieftains-aragorn-ii-3019,Reunited Kingdom,foundation / new office

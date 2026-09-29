@@ -1,0 +1,79 @@
+[
+  {
+    "realm_id": "numenor",
+    "realm_name": "Númenor",
+    "n": 23,
+    "mean": 139.22,
+    "median": 140,
+    "minimum": 63,
+    "maximum": 410,
+    "variance": 5277.91,
+    "lifespan_known": 23
+  },
+  {
+    "realm_id": "arnor",
+    "realm_name": "Arnor",
+    "n": 10,
+    "mean": 98.2,
+    "median": 88.5,
+    "minimum": 2,
+    "maximum": 247,
+    "variance": 3568.76,
+    "lifespan_known": 10
+  },
+  {
+    "realm_id": "arthedain",
+    "realm_name": "Arthedain",
+    "n": 15,
+    "mean": 74.2,
+    "median": 78,
+    "minimum": 7,
+    "maximum": 180,
+    "variance": 1380.16,
+    "lifespan_known": 15
+  },
+  {
+    "realm_id": "chieftains",
+    "realm_name": "Chieftains",
+    "n": 15,
+    "mean": 60.87,
+    "median": 65,
+    "minimum": 3,
+    "maximum": 128,
+    "variance": 905.18,
+    "lifespan_known": 15
+  },
+  {
+    "realm_id": "gondor",
+    "realm_name": "Gondor",
+    "n": 31,
+    "mean": 65.71,
+    "median": 77,
+    "minimum": 2,
+    "maximum": 162,
+    "variance": 1827.43,
+    "lifespan_known": 30
+  },
+  {
+    "realm_id": "stewards",
+    "realm_name": "Ruling Stewards",
+    "n": 26,
+    "mean": 37.27,
+    "median": 33.0,
+    "minimum": 10,
+    "maximum": 117,
+    "variance": 482.66,
+    "lifespan_known": 26
+  },
+  {
+    "realm_id": "reunited",
+    "realm_name": "Reunited Kingdom",
+    "n": 1,
+    "mean": 122,
+    "median": 122,
+    "minimum": 122,
+    "maximum": 122,
+    "variance": 0,
+    "lifespan_known": 1
+  }
+]

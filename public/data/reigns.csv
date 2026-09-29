@@ -1,0 +1,130 @@
+reign_id,person_id,office_id,start_age,start_year,end_age,end_year,status,note,succession_type,source_id
+numenor-numenor-elros-tar-minyatur-32,numenor-elros-tar-minyatur,numenor,SA,32,SA,442,recorded,,foundation / new office,numenor
+numenor-numenor-vardamir-nolimon-442,numenor-vardamir-nolimon,numenor,SA,442,SA,443,titular,Nominal one-year convention. Vardamir immediately yielded power; effective rule by Tar-Amandil began in SA 442.,parent-child,numenor
+numenor-numenor-tar-amandil-443,numenor-tar-amandil,numenor,SA,443,SA,590,recorded,Formal regnal convention starts in SA 443; effective rule began in SA 442.,parent-child,numenor
+numenor-numenor-tar-elendil-590,numenor-tar-elendil,numenor,SA,590,SA,740,recorded,,parent-child,numenor
+numenor-numenor-tar-meneldur-740,numenor-tar-meneldur,numenor,SA,740,SA,883,recorded,,parent-child,numenor
+numenor-numenor-tar-aldarion-883,numenor-tar-aldarion,numenor,SA,883,SA,1075,recorded,,parent-child,numenor
+numenor-numenor-tar-ancalime-1075,numenor-tar-ancalime,numenor,SA,1075,SA,1280,recorded,,parent-child,numenor
+numenor-numenor-tar-anarion-1280,numenor-tar-anarion,numenor,SA,1280,SA,1394,recorded,,parent-child,numenor
+numenor-numenor-tar-surion-1394,numenor-tar-surion,numenor,SA,1394,SA,1556,recorded,,parent-child,numenor
+numenor-numenor-tar-telperien-1556,numenor-tar-telperien,numenor,SA,1556,SA,1731,recorded,,parent-child,numenor
+numenor-numenor-tar-minastir-1731,numenor-tar-minastir,numenor,SA,1731,SA,1869,recorded,Accession chronology and the fleet sent in SA 1700 are not fully aligned across accounts.,nephew / niece,numenor
+numenor-numenor-tar-ciryatan-1869,numenor-tar-ciryatan,numenor,SA,1869,SA,2029,recorded,,parent-child,numenor
+numenor-numenor-tar-atanamir-2029,numenor-tar-atanamir,numenor,SA,2029,SA,2221,recorded,,parent-child,numenor
+numenor-numenor-tar-ancalimon-2221,numenor-tar-ancalimon,numenor,SA,2221,SA,2386,recorded,,parent-child,numenor
+numenor-numenor-tar-telemmaite-2386,numenor-tar-telemmaite,numenor,SA,2386,SA,2526,recorded,,parent-child,numenor
+numenor-numenor-tar-vanimelde-2526,numenor-tar-vanimelde,numenor,SA,2526,SA,2637,recorded,,parent-child,numenor
+numenor-numenor-tar-anducal-2637,numenor-tar-anducal,numenor,SA,2637,SA,2657,usurper,,usurpation,numenor
+numenor-numenor-tar-alcarin-2657,numenor-tar-alcarin,numenor,SA,2657,SA,2737,recorded,Effective reign from SA 2657; legal claim dates from SA 2637.,parent-child,numenor
+numenor-numenor-tar-calmacil-2737,numenor-tar-calmacil,numenor,SA,2737,SA,2825,recorded,,parent-child,numenor
+numenor-numenor-tar-ardamin-2825,numenor-tar-ardamin,numenor,SA,2825,SA,2899,recorded,,parent-child,numenor
+numenor-numenor-ar-adunakhor-2899,numenor-ar-adunakhor,numenor,SA,2899,SA,2962,recorded,,parent-child,numenor
+numenor-numenor-ar-zimrathon-2962,numenor-ar-zimrathon,numenor,SA,2962,SA,3033,recorded,,parent-child,numenor
+numenor-numenor-ar-sakalthor-3033,numenor-ar-sakalthor,numenor,SA,3033,SA,3102,recorded,,parent-child,numenor
+numenor-numenor-ar-gimilzor-3102,numenor-ar-gimilzor,numenor,SA,3102,SA,3177,recorded,,parent-child,numenor
+numenor-numenor-tar-palantir-3177,numenor-tar-palantir,numenor,SA,3177,SA,3255,recorded,,parent-child,numenor
+numenor-numenor-ar-pharazon-3255,numenor-ar-pharazon,numenor,SA,3255,SA,3319,usurper,End of rule is the Downfall; fate is not treated as an ordinary death.,usurpation,numenor
+arnor-arnor-elendil-3320,arnor-elendil,arnor,SA,3320,SA,3441,recorded,,foundation / new office,arnor
+arnor-arnor-isildur-3441,arnor-isildur,arnor,SA,3441,TA,2,recorded,,parent-child,arnor
+arnor-arnor-valandil-2,arnor-valandil,arnor,TA,2,TA,249,recorded,,parent-child,arnor
+arnor-arnor-eldacar-249,arnor-eldacar,arnor,TA,249,TA,339,recorded,,parent-child,arnor
+arnor-arnor-arantar-339,arnor-arantar,arnor,TA,339,TA,435,recorded,,parent-child,arnor
+arnor-arnor-tarcil-435,arnor-tarcil,arnor,TA,435,TA,515,recorded,,parent-child,arnor
+arnor-arnor-tarondor-515,arnor-tarondor,arnor,TA,515,TA,602,recorded,,parent-child,arnor
+arnor-arnor-valandur-602,arnor-valandur,arnor,TA,602,TA,652,recorded,,parent-child,arnor
+arnor-arnor-elendur-652,arnor-elendur,arnor,TA,652,TA,777,recorded,,parent-child,arnor
+arnor-arnor-earendur-777,arnor-earendur,arnor,TA,777,TA,861,recorded,,parent-child,arnor
+arthedain-arthedain-amlaith-861,arthedain-amlaith,arthedain,TA,861,TA,946,recorded,,foundation / new office,arthedain
+arthedain-arthedain-beleg-946,arthedain-beleg,arthedain,TA,946,TA,1029,recorded,,parent-child,arthedain
+arthedain-arthedain-mallor-1029,arthedain-mallor,arthedain,TA,1029,TA,1110,recorded,,parent-child,arthedain
+arthedain-arthedain-celepharn-1110,arthedain-celepharn,arthedain,TA,1110,TA,1191,recorded,,parent-child,arthedain
+arthedain-arthedain-celebrindor-1191,arthedain-celebrindor,arthedain,TA,1191,TA,1272,recorded,,parent-child,arthedain
+arthedain-arthedain-malvegil-1272,arthedain-malvegil,arthedain,TA,1272,TA,1349,recorded,,parent-child,arthedain
+arthedain-arthedain-argeleb-i-1349,arthedain-argeleb-i,arthedain,TA,1349,TA,1356,recorded,,parent-child,arthedain
+arthedain-arthedain-arveleg-i-1356,arthedain-arveleg-i,arthedain,TA,1356,TA,1409,recorded,,parent-child,arthedain
+arthedain-arthedain-araphor-1409,arthedain-araphor,arthedain,TA,1409,TA,1589,recorded,,parent-child,arthedain
+arthedain-arthedain-argeleb-ii-1589,arthedain-argeleb-ii,arthedain,TA,1589,TA,1670,recorded,,parent-child,arthedain
+arthedain-arthedain-arvegil-1670,arthedain-arvegil,arthedain,TA,1670,TA,1743,recorded,,parent-child,arthedain
+arthedain-arthedain-arveleg-ii-1743,arthedain-arveleg-ii,arthedain,TA,1743,TA,1813,recorded,,parent-child,arthedain
+arthedain-arthedain-araval-1813,arthedain-araval,arthedain,TA,1813,TA,1891,recorded,,parent-child,arthedain
+arthedain-arthedain-araphant-1891,arthedain-araphant,arthedain,TA,1891,TA,1964,recorded,,parent-child,arthedain
+arthedain-arthedain-arvedui-1964,arthedain-arvedui,arthedain,TA,1964,TA,1974,recorded,Kingdom fell TA 1974; Arvedui died TA 1975. Office end and death are distinct.,parent-child,arthedain
+chieftains-chieftains-aranarth-1976,chieftains-aranarth,chieftains,TA,1976,TA,2106,uncertain,Institution established TA 1976 in Appendix B; regnal lists also use TA 1975. This dataset uses 1976 and excludes the tenure from default statistics.,foundation / new office,chieftains
+chieftains-chieftains-arahael-2106,chieftains-arahael,chieftains,TA,2106,TA,2177,recorded,,parent-child,chieftains
+chieftains-chieftains-aranuir-2177,chieftains-aranuir,chieftains,TA,2177,TA,2247,recorded,,parent-child,chieftains
+chieftains-chieftains-aravir-2247,chieftains-aravir,chieftains,TA,2247,TA,2319,recorded,,parent-child,chieftains
+chieftains-chieftains-aragorn-i-2319,chieftains-aragorn-i,chieftains,TA,2319,TA,2327,recorded,,parent-child,chieftains
+chieftains-chieftains-araglas-2327,chieftains-araglas,chieftains,TA,2327,TA,2455,recorded,,parent-child,chieftains
+chieftains-chieftains-arahad-i-2455,chieftains-arahad-i,chieftains,TA,2455,TA,2523,recorded,,parent-child,chieftains
+chieftains-chieftains-aragost-2523,chieftains-aragost,chieftains,TA,2523,TA,2588,recorded,,parent-child,chieftains
+chieftains-chieftains-aravorn-2588,chieftains-aravorn,chieftains,TA,2588,TA,2654,recorded,,parent-child,chieftains
+chieftains-chieftains-arahad-ii-2654,chieftains-arahad-ii,chieftains,TA,2654,TA,2719,recorded,,parent-child,chieftains
+chieftains-chieftains-arassuil-2719,chieftains-arassuil,chieftains,TA,2719,TA,2784,recorded,,parent-child,chieftains
+chieftains-chieftains-arathorn-i-2784,chieftains-arathorn-i,chieftains,TA,2784,TA,2848,recorded,,parent-child,chieftains
+chieftains-chieftains-argonui-2848,chieftains-argonui,chieftains,TA,2848,TA,2912,recorded,,parent-child,chieftains
+chieftains-chieftains-arador-2912,chieftains-arador,chieftains,TA,2912,TA,2930,recorded,,parent-child,chieftains
+chieftains-chieftains-arathorn-ii-2930,chieftains-arathorn-ii,chieftains,TA,2930,TA,2933,recorded,,parent-child,chieftains
+chieftains-chieftains-aragorn-ii-2933,chieftains-aragorn-ii,chieftains,TA,2933,TA,3019,recorded,,parent-child,chieftains
+gondor-arnor-elendil-3320,arnor-elendil,gondor,SA,3320,SA,3441,overlord,High kingship overlaps the local co-rulers. Excluded from default duration comparisons.,foundation / new office,gondor
+gondor-gondor-anarion-3320,gondor-anarion,gondor,SA,3320,SA,3440,co-ruler,,parent-child,gondor
+gondor-arnor-isildur-3320,arnor-isildur,gondor,SA,3320,TA,2,co-ruler,,sibling,gondor
+gondor-gondor-meneldil-2,gondor-meneldil,gondor,TA,2,TA,158,recorded,,nephew / niece,gondor
+gondor-gondor-cemendur-158,gondor-cemendur,gondor,TA,158,TA,238,recorded,,parent-child,gondor
+gondor-gondor-earendil-238,gondor-earendil,gondor,TA,238,TA,324,recorded,,parent-child,gondor
+gondor-gondor-anardil-324,gondor-anardil,gondor,TA,324,TA,411,recorded,,parent-child,gondor
+gondor-gondor-ostoher-411,gondor-ostoher,gondor,TA,411,TA,492,recorded,,parent-child,gondor
+gondor-gondor-romendacil-i-492,gondor-romendacil-i,gondor,TA,492,TA,541,recorded,,parent-child,gondor
+gondor-gondor-turambar-541,gondor-turambar,gondor,TA,541,TA,667,recorded,,parent-child,gondor
+gondor-gondor-atanatar-i-667,gondor-atanatar-i,gondor,TA,667,TA,748,recorded,,parent-child,gondor
+gondor-gondor-siriondil-748,gondor-siriondil,gondor,TA,748,TA,830,recorded,,parent-child,gondor
+gondor-gondor-tarannon-falastur-830,gondor-tarannon-falastur,gondor,TA,830,TA,913,recorded,,parent-child,gondor
+gondor-gondor-earnil-i-913,gondor-earnil-i,gondor,TA,913,TA,936,recorded,,nephew / niece,gondor
+gondor-gondor-ciryandil-936,gondor-ciryandil,gondor,TA,936,TA,1015,recorded,,parent-child,gondor
+gondor-gondor-hyarmendacil-i-1015,gondor-hyarmendacil-i,gondor,TA,1015,TA,1149,recorded,,parent-child,gondor
+gondor-gondor-atanatar-ii-alcarin-1149,gondor-atanatar-ii-alcarin,gondor,TA,1149,TA,1226,recorded,,parent-child,gondor
+gondor-gondor-narmacil-i-1226,gondor-narmacil-i,gondor,TA,1226,TA,1294,recorded,,parent-child,gondor
+gondor-gondor-calmacil-1294,gondor-calmacil,gondor,TA,1294,TA,1304,recorded,,sibling,gondor
+gondor-gondor-romendacil-ii-1304,gondor-romendacil-ii,gondor,TA,1304,TA,1366,recorded,,parent-child,gondor
+gondor-gondor-valacar-1366,gondor-valacar,gondor,TA,1366,TA,1432,recorded,,parent-child,gondor
+gondor-gondor-eldacar-1432,gondor-eldacar,gondor,TA,1432,TA,1437,recorded,,parent-child,gondor
+gondor-gondor-castamir-1437,gondor-castamir,gondor,TA,1437,TA,1447,usurper,,usurpation,gondor
+gondor-gondor-eldacar-1447,gondor-eldacar,gondor,TA,1447,TA,1490,recorded,Second tenure; the ten-year exile is excluded.,restoration,gondor
+gondor-gondor-aldamir-1490,gondor-aldamir,gondor,TA,1490,TA,1540,recorded,,parent-child,gondor
+gondor-gondor-hyarmendacil-ii-1540,gondor-hyarmendacil-ii,gondor,TA,1540,TA,1621,recorded,,parent-child,gondor
+gondor-gondor-minardil-1621,gondor-minardil,gondor,TA,1621,TA,1634,recorded,,parent-child,gondor
+gondor-gondor-telemnar-1634,gondor-telemnar,gondor,TA,1634,TA,1636,recorded,,parent-child,gondor
+gondor-gondor-tarondor-1636,gondor-tarondor,gondor,TA,1636,TA,1798,recorded,,nephew / niece,gondor
+gondor-gondor-telumehtar-umbardacil-1798,gondor-telumehtar-umbardacil,gondor,TA,1798,TA,1850,recorded,,parent-child,gondor
+gondor-gondor-narmacil-ii-1850,gondor-narmacil-ii,gondor,TA,1850,TA,1856,recorded,,parent-child,gondor
+gondor-gondor-calimehtar-1856,gondor-calimehtar,gondor,TA,1856,TA,1936,recorded,,parent-child,gondor
+gondor-gondor-ondoher-1936,gondor-ondoher,gondor,TA,1936,TA,1944,recorded,,parent-child,gondor
+gondor-gondor-earnil-ii-1945,gondor-earnil-ii,gondor,TA,1945,TA,2043,recorded,TA 1944–1945 interregnum is not assigned to a king.,collateral dynastic succession,gondor
+gondor-gondor-earnur-2043,gondor-earnur,gondor,TA,2043,TA,2050,recorded,"Disappeared TA 2050; this is an office end, not a verified death date.",parent-child,gondor
+stewards-stewards-mardil-voronwe-2050,stewards-mardil-voronwe,stewards,TA,2050,TA,2080,recorded,,foundation / new office,stewards
+stewards-stewards-eradan-2080,stewards-eradan,stewards,TA,2080,TA,2116,recorded,,parent-child,stewards
+stewards-stewards-herion-2116,stewards-herion,stewards,TA,2116,TA,2148,recorded,,parent-child,stewards
+stewards-stewards-belegorn-2148,stewards-belegorn,stewards,TA,2148,TA,2204,recorded,,parent-child,stewards
+stewards-stewards-hurin-i-2204,stewards-hurin-i,stewards,TA,2204,TA,2244,recorded,,parent-child,stewards
+stewards-stewards-turin-i-2244,stewards-turin-i,stewards,TA,2244,TA,2278,recorded,,parent-child,stewards
+stewards-stewards-hador-2278,stewards-hador,stewards,TA,2278,TA,2395,recorded,,parent-child,stewards
+stewards-stewards-barahir-2395,stewards-barahir,stewards,TA,2395,TA,2412,recorded,,parent-child,stewards
+stewards-stewards-dior-2412,stewards-dior,stewards,TA,2412,TA,2435,recorded,,parent-child,stewards
+stewards-stewards-denethor-i-2435,stewards-denethor-i,stewards,TA,2435,TA,2477,recorded,,nephew / niece,stewards
+stewards-stewards-boromir-2477,stewards-boromir,stewards,TA,2477,TA,2489,recorded,,parent-child,stewards
+stewards-stewards-cirion-2489,stewards-cirion,stewards,TA,2489,TA,2567,recorded,,parent-child,stewards
+stewards-stewards-hallas-2567,stewards-hallas,stewards,TA,2567,TA,2605,recorded,,parent-child,stewards
+stewards-stewards-hurin-ii-2605,stewards-hurin-ii,stewards,TA,2605,TA,2628,recorded,,parent-child,stewards
+stewards-stewards-belecthor-i-2628,stewards-belecthor-i,stewards,TA,2628,TA,2655,recorded,,parent-child,stewards
+stewards-stewards-orodreth-2655,stewards-orodreth,stewards,TA,2655,TA,2685,recorded,,parent-child,stewards
+stewards-stewards-ecthelion-i-2685,stewards-ecthelion-i,stewards,TA,2685,TA,2698,recorded,,parent-child,stewards
+stewards-stewards-egalmoth-2698,stewards-egalmoth,stewards,TA,2698,TA,2743,recorded,,collateral dynastic succession,stewards
+stewards-stewards-beren-2743,stewards-beren,stewards,TA,2743,TA,2763,recorded,,parent-child,stewards
+stewards-stewards-beregond-2763,stewards-beregond,stewards,TA,2763,TA,2811,recorded,,parent-child,stewards
+stewards-stewards-belecthor-ii-2811,stewards-belecthor-ii,stewards,TA,2811,TA,2872,recorded,,parent-child,stewards
+stewards-stewards-thorondir-2872,stewards-thorondir,stewards,TA,2872,TA,2882,recorded,,parent-child,stewards
+stewards-stewards-turin-ii-2882,stewards-turin-ii,stewards,TA,2882,TA,2914,recorded,,parent-child,stewards
+stewards-stewards-turgon-2914,stewards-turgon,stewards,TA,2914,TA,2953,recorded,,parent-child,stewards
+stewards-stewards-ecthelion-ii-2953,stewards-ecthelion-ii,stewards,TA,2953,TA,2984,recorded,,parent-child,stewards
+stewards-stewards-denethor-ii-2984,stewards-denethor-ii,stewards,TA,2984,TA,3019,recorded,,parent-child,stewards
+reunited-chieftains-aragorn-ii-3019,chieftains-aragorn-ii,reunited,TA,3019,FA,120,recorded,Year-level convention uses SA 3441 and TA 3021 as era lengths; exact month/day durations are not claimed.,foundation / new office,reunited

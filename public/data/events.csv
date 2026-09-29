@@ -1,0 +1,11 @@
+event_id,name,age,year,realm_id,source_id
+downfall-of-numenor,Downfall of Númenor,SA,3319,numenor,numenor
+realms-in-exile-founded,Realms in Exile founded,SA,3320,arnor,arnor
+end-of-the-last-alliance,End of the Last Alliance,SA,3441,gondor,gondor
+division-of-arnor,Division of Arnor,TA,861,arnor,arnor
+kin-strife-usurpation,Kin-strife: usurpation,TA,1437,gondor,gondor
+eldacar-restored,Eldacar restored,TA,1447,gondor,gondor
+great-plague,Great Plague,TA,1636,gondor,gondor
+fall-of-arthedain,Fall of Arthedain,TA,1974,arthedain,arthedain
+disappearance-of-earnur,Disappearance of Eärnur,TA,2050,gondor,gondor
+restoration-of-kingship,Restoration of kingship,TA,3019,reunited,reunited
