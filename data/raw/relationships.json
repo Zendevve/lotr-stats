@@ -1,0 +1,1080 @@
+[
+  {
+    "source_person_id": "numenor-elros-tar-minyatur",
+    "target_person_id": "numenor-vardamir-nolimon",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-vardamir-nolimon",
+    "target_person_id": "numenor-tar-amandil",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-amandil",
+    "target_person_id": "numenor-tar-elendil",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-elendil",
+    "target_person_id": "numenor-tar-meneldur",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-meneldur",
+    "target_person_id": "numenor-tar-aldarion",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-aldarion",
+    "target_person_id": "numenor-tar-ancalime",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-ancalime",
+    "target_person_id": "numenor-tar-anarion",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-anarion",
+    "target_person_id": "numenor-tar-surion",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-surion",
+    "target_person_id": "numenor-tar-telperien",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-surion",
+    "target_person_id": "family-isilmo",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-isilmo",
+    "target_person_id": "numenor-tar-minastir",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-minastir",
+    "target_person_id": "numenor-tar-ciryatan",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-ciryatan",
+    "target_person_id": "numenor-tar-atanamir",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-atanamir",
+    "target_person_id": "numenor-tar-ancalimon",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-ancalimon",
+    "target_person_id": "numenor-tar-telemmaite",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-telemmaite",
+    "target_person_id": "numenor-tar-vanimelde",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-alcarin",
+    "target_person_id": "numenor-tar-calmacil",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-calmacil",
+    "target_person_id": "numenor-tar-ardamin",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-ardamin",
+    "target_person_id": "numenor-ar-adunakhor",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-ar-adunakhor",
+    "target_person_id": "numenor-ar-zimrathon",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-ar-zimrathon",
+    "target_person_id": "numenor-ar-sakalthor",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-ar-sakalthor",
+    "target_person_id": "numenor-ar-gimilzor",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-ar-gimilzor",
+    "target_person_id": "numenor-tar-palantir",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-vanimelde",
+    "target_person_id": "numenor-tar-alcarin",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-anducal",
+    "target_person_id": "numenor-tar-alcarin",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-ar-gimilzor",
+    "target_person_id": "family-gimilkhad",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-gimilkhad",
+    "target_person_id": "numenor-ar-pharazon",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-palantir",
+    "target_person_id": "family-miriel",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-inzilbeth",
+    "target_person_id": "numenor-tar-palantir",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-inzilbeth",
+    "target_person_id": "family-gimilkhad",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-elendil",
+    "target_person_id": "family-silmarien",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-silmarien",
+    "target_person_id": "family-valandil-andunie",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-elatan",
+    "target_person_id": "family-valandil-andunie",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-numendil",
+    "target_person_id": "family-amandil",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-amandil",
+    "target_person_id": "arnor-elendil",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-earendil-halfelven",
+    "target_person_id": "numenor-elros-tar-minyatur",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-elwing",
+    "target_person_id": "numenor-elros-tar-minyatur",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-almarian",
+    "target_person_id": "numenor-tar-aldarion",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-erendis",
+    "target_person_id": "numenor-tar-ancalime",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-hallacar",
+    "target_person_id": "numenor-tar-anarion",
+    "relationship_type": "parent",
+    "source_id": "family-numenor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "numenor-tar-atanamir",
+    "target_person_id": "numenor-tar-anducal",
+    "relationship_type": "ancestor",
+    "source_id": "herucalmo-family",
+    "generations": 3
+  },
+  {
+    "source_person_id": "family-valandil-andunie",
+    "target_person_id": "family-numendil",
+    "relationship_type": "ancestor",
+    "source_id": "family-numenor",
+    "generations": null
+  },
+  {
+    "source_person_id": "arnor-elendil",
+    "target_person_id": "arnor-isildur",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-isildur",
+    "target_person_id": "arnor-valandil",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-valandil",
+    "target_person_id": "arnor-eldacar",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-eldacar",
+    "target_person_id": "arnor-arantar",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-arantar",
+    "target_person_id": "arnor-tarcil",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-tarcil",
+    "target_person_id": "arnor-tarondor",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-tarondor",
+    "target_person_id": "arnor-valandur",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-valandur",
+    "target_person_id": "arnor-elendur",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-elendur",
+    "target_person_id": "arnor-earendur",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-earendur",
+    "target_person_id": "arthedain-amlaith",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-amlaith",
+    "target_person_id": "arthedain-beleg",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-beleg",
+    "target_person_id": "arthedain-mallor",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-mallor",
+    "target_person_id": "arthedain-celepharn",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-celepharn",
+    "target_person_id": "arthedain-celebrindor",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-celebrindor",
+    "target_person_id": "arthedain-malvegil",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-malvegil",
+    "target_person_id": "arthedain-argeleb-i",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-argeleb-i",
+    "target_person_id": "arthedain-arveleg-i",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-arveleg-i",
+    "target_person_id": "arthedain-araphor",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-araphor",
+    "target_person_id": "arthedain-argeleb-ii",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-argeleb-ii",
+    "target_person_id": "arthedain-arvegil",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-arvegil",
+    "target_person_id": "arthedain-arveleg-ii",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-arveleg-ii",
+    "target_person_id": "arthedain-araval",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-araval",
+    "target_person_id": "arthedain-araphant",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-araphant",
+    "target_person_id": "arthedain-arvedui",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arthedain-arvedui",
+    "target_person_id": "chieftains-aranarth",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aranarth",
+    "target_person_id": "chieftains-arahael",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arahael",
+    "target_person_id": "chieftains-aranuir",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aranuir",
+    "target_person_id": "chieftains-aravir",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aravir",
+    "target_person_id": "chieftains-aragorn-i",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aragorn-i",
+    "target_person_id": "chieftains-araglas",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-araglas",
+    "target_person_id": "chieftains-arahad-i",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arahad-i",
+    "target_person_id": "chieftains-aragost",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aragost",
+    "target_person_id": "chieftains-aravorn",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-aravorn",
+    "target_person_id": "chieftains-arahad-ii",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arahad-ii",
+    "target_person_id": "chieftains-arassuil",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arassuil",
+    "target_person_id": "chieftains-arathorn-i",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arathorn-i",
+    "target_person_id": "chieftains-argonui",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-argonui",
+    "target_person_id": "chieftains-arador",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arador",
+    "target_person_id": "chieftains-arathorn-ii",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "chieftains-arathorn-ii",
+    "target_person_id": "chieftains-aragorn-ii",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-gilraen",
+    "target_person_id": "chieftains-aragorn-ii",
+    "relationship_type": "parent",
+    "source_id": "gilraen-life",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-firiel",
+    "target_person_id": "chieftains-aranarth",
+    "relationship_type": "parent",
+    "source_id": "family-north",
+    "generations": 1
+  },
+  {
+    "source_person_id": "arnor-elendil",
+    "target_person_id": "gondor-anarion",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-anarion",
+    "target_person_id": "gondor-meneldil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-meneldil",
+    "target_person_id": "gondor-cemendur",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-cemendur",
+    "target_person_id": "gondor-earendil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-earendil",
+    "target_person_id": "gondor-anardil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-anardil",
+    "target_person_id": "gondor-ostoher",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-ostoher",
+    "target_person_id": "gondor-romendacil-i",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-romendacil-i",
+    "target_person_id": "gondor-turambar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-turambar",
+    "target_person_id": "gondor-atanatar-i",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-atanatar-i",
+    "target_person_id": "gondor-siriondil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-siriondil",
+    "target_person_id": "gondor-tarannon-falastur",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-siriondil",
+    "target_person_id": "family-tarciryan",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-tarciryan",
+    "target_person_id": "gondor-earnil-i",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-earnil-i",
+    "target_person_id": "gondor-ciryandil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-ciryandil",
+    "target_person_id": "gondor-hyarmendacil-i",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-hyarmendacil-i",
+    "target_person_id": "gondor-atanatar-ii-alcarin",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-atanatar-ii-alcarin",
+    "target_person_id": "gondor-narmacil-i",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-atanatar-ii-alcarin",
+    "target_person_id": "gondor-calmacil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-calmacil",
+    "target_person_id": "gondor-romendacil-ii",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-romendacil-ii",
+    "target_person_id": "gondor-valacar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-valacar",
+    "target_person_id": "gondor-eldacar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-eldacar",
+    "target_person_id": "gondor-aldamir",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-aldamir",
+    "target_person_id": "gondor-hyarmendacil-ii",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-hyarmendacil-ii",
+    "target_person_id": "gondor-minardil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-minardil",
+    "target_person_id": "gondor-telemnar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-minardil",
+    "target_person_id": "family-minastan",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-minastan",
+    "target_person_id": "gondor-tarondor",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-tarondor",
+    "target_person_id": "gondor-telumehtar-umbardacil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-telumehtar-umbardacil",
+    "target_person_id": "gondor-narmacil-ii",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-narmacil-ii",
+    "target_person_id": "gondor-calimehtar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-calimehtar",
+    "target_person_id": "gondor-ondoher",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-telumehtar-umbardacil",
+    "target_person_id": "family-arciryas",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-arciryas",
+    "target_person_id": "family-calimmacil",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-calimmacil",
+    "target_person_id": "family-siriondil-prince",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-siriondil-prince",
+    "target_person_id": "gondor-earnil-ii",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-earnil-ii",
+    "target_person_id": "gondor-earnur",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-calmacil",
+    "target_person_id": "family-calimehtar-prince",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-calimehtar-prince",
+    "target_person_id": "gondor-castamir",
+    "relationship_type": "ancestor",
+    "source_id": "family-gondor",
+    "generations": 2
+  },
+  {
+    "source_person_id": "family-vidumavi",
+    "target_person_id": "gondor-eldacar",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "gondor-ondoher",
+    "target_person_id": "family-firiel",
+    "relationship_type": "parent",
+    "source_id": "family-gondor",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-pelendur",
+    "target_person_id": "family-vorondil",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-vorondil",
+    "target_person_id": "stewards-mardil-voronwe",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-mardil-voronwe",
+    "target_person_id": "stewards-eradan",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-eradan",
+    "target_person_id": "stewards-herion",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-herion",
+    "target_person_id": "stewards-belegorn",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-belegorn",
+    "target_person_id": "stewards-hurin-i",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-hurin-i",
+    "target_person_id": "stewards-turin-i",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-turin-i",
+    "target_person_id": "stewards-hador",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-hador",
+    "target_person_id": "stewards-barahir",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-barahir",
+    "target_person_id": "stewards-dior",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-barahir",
+    "target_person_id": "family-rian",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-rian",
+    "target_person_id": "stewards-denethor-i",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-denethor-i",
+    "target_person_id": "stewards-boromir",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-boromir",
+    "target_person_id": "stewards-cirion",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-cirion",
+    "target_person_id": "stewards-hallas",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-hallas",
+    "target_person_id": "stewards-hurin-ii",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-hurin-ii",
+    "target_person_id": "stewards-belecthor-i",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-belecthor-i",
+    "target_person_id": "stewards-orodreth",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-orodreth",
+    "target_person_id": "stewards-ecthelion-i",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-belecthor-i",
+    "target_person_id": "family-morwen",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-morwen",
+    "target_person_id": "stewards-egalmoth",
+    "relationship_type": "ancestor",
+    "source_id": "family-stewards",
+    "generations": 2
+  },
+  {
+    "source_person_id": "stewards-egalmoth",
+    "target_person_id": "stewards-beren",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-beren",
+    "target_person_id": "stewards-beregond",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-beregond",
+    "target_person_id": "stewards-belecthor-ii",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-belecthor-ii",
+    "target_person_id": "stewards-thorondir",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-thorondir",
+    "target_person_id": "stewards-turin-ii",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-turin-ii",
+    "target_person_id": "stewards-turgon",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-turgon",
+    "target_person_id": "stewards-ecthelion-ii",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "stewards-ecthelion-ii",
+    "target_person_id": "stewards-denethor-ii",
+    "relationship_type": "parent",
+    "source_id": "family-stewards",
+    "generations": 1
+  },
+  {
+    "source_person_id": "family-hurin-emyn-arnen",
+    "target_person_id": "family-pelendur",
+    "relationship_type": "ancestor",
+    "source_id": "family-stewards",
+    "generations": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "house_id": "Elros",
+    "name": "House of Elros"
+  },
+  {
+    "house_id": "Isildur",
+    "name": "House of Isildur"
+  },
+  {
+    "house_id": "Anárion",
+    "name": "House of Anárion"
+  },
+  {
+    "house_id": "Húrin",
+    "name": "House of Húrin"
+  },
+  {
+    "house_id": "Telcontar",
+    "name": "House of Telcontar"
+  },
+  {
+    "house_id": "Elendil",
+    "name": "House of Elendil"
+  }
+]

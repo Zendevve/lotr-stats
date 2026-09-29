@@ -1,0 +1,37 @@
+[
+  {
+    "realm_id": "numenor",
+    "name": "Númenor",
+    "color": "#a27c38"
+  },
+  {
+    "realm_id": "arnor",
+    "name": "Arnor",
+    "color": "#56817d"
+  },
+  {
+    "realm_id": "arthedain",
+    "name": "Arthedain",
+    "color": "#87976d"
+  },
+  {
+    "realm_id": "chieftains",
+    "name": "Chieftains",
+    "color": "#748799"
+  },
+  {
+    "realm_id": "gondor",
+    "name": "Gondor",
+    "color": "#556579"
+  },
+  {
+    "realm_id": "stewards",
+    "name": "Ruling Stewards",
+    "color": "#967c7a"
+  },
+  {
+    "realm_id": "reunited",
+    "name": "Reunited Kingdom",
+    "color": "#9b884d"
+  }
+]

@@ -1,0 +1,13 @@
+INSERT INTO "aliases" BY NAME SELECT * FROM read_parquet('public/data/aliases.parquet');
+INSERT INTO "events" BY NAME SELECT * FROM read_parquet('public/data/events.parquet');
+INSERT INTO "field_sources" BY NAME SELECT * FROM read_parquet('public/data/field_sources.parquet');
+INSERT INTO "houses" BY NAME SELECT * FROM read_parquet('public/data/houses.parquet');
+INSERT INTO "mart_realm_summary" BY NAME SELECT * FROM read_parquet('public/data/mart_realm_summary.parquet');
+INSERT INTO "mart_ruler_reigns" BY NAME SELECT * FROM read_parquet('public/data/mart_ruler_reigns.parquet');
+INSERT INTO "mart_succession" BY NAME SELECT * FROM read_parquet('public/data/mart_succession.parquet');
+INSERT INTO "offices" BY NAME SELECT * FROM read_parquet('public/data/offices.parquet');
+INSERT INTO "persons" BY NAME SELECT * FROM read_parquet('public/data/persons.parquet');
+INSERT INTO "realms" BY NAME SELECT * FROM read_parquet('public/data/realms.parquet');
+INSERT INTO "reigns" BY NAME SELECT * FROM read_parquet('public/data/reigns.parquet');
+INSERT INTO "relationships" BY NAME SELECT * FROM read_parquet('public/data/relationships.parquet');
+INSERT INTO "sources" BY NAME SELECT * FROM read_parquet('public/data/sources.parquet');
