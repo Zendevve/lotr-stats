@@ -57,7 +57,7 @@ pnpm exec tsc --noEmit
 pnpm build
 ```
 
-The app tests validate server-rendered pages and internal targets, not browser click-through behavior. Browser interaction and visual QA were unavailable in the export environment. The live source previously passed these checks and its production build; no new account or remote infrastructure is created by the export.
+The automated test suite validates data transformations, relational integrity, server-rendered routes, internal links and the WebAssembly SQL engine. Browser interaction, keyboard navigation, responsive layouts and reduced-motion states are verified against the local development server.
 
 ## Production build and local smoke test
 
@@ -130,7 +130,7 @@ The Sites checkout uses pnpm; its lockfile pins the hosted build. Outside Sites,
 
 Tables: persons, aliases, houses, realms, offices, reigns, relationships, events, sources and field_sources. Derived marts: mart_ruler_reigns, mart_realm_summary and mart_succession. SQL aliases `rulers` and `ruler_reigns` are provided.
 
-The browser initializes DuckDB only after Run is selected, registers local Parquet files, disables external access and accepts one SELECT/WITH statement. Results are capped at 1,000 rows. A 20-second timeout terminates expensive queries and resets the worker (60 seconds on initial engine load). The SQL-engine integration test runs the actual WebAssembly build against all 13 Parquet tables. Regression checks cover filters and accent-insensitive search, read-only SQL validation, all example queries, failure recovery, the result limit, engine asset integrity, and server rendering of all 161 routes with 167 internal links/download targets. Browser interaction and visual QA remain unverified because browser testing was unavailable.
+The browser initializes DuckDB only after Run is selected, registers local Parquet files, disables external access and accepts one SELECT/WITH statement. The loader accepts both the original gzip asset and WASM already decompressed by HTTP content encoding. Results are capped at 1,000 rows. A 20-second timeout terminates expensive queries and resets the worker (60 seconds on initial engine load). The SQL-engine integration test runs the actual WebAssembly build against all 13 Parquet tables. Regression checks cover filters and accent-insensitive search, read-only SQL validation, all example queries, failure recovery, the result limit, engine asset integrity, and server rendering of all 161 routes with 167 internal links/download targets. Browser checks additionally exercise real query execution, keyboard submission, cancellation and restart, empty results, and both WASM delivery formats.
 
 ## Method and exclusions
 
@@ -141,6 +141,16 @@ Source tables were checked against secondary references, with underlying primary
 ## Routes
 
 `/`, `/timeline`, `/rulers`, `/rulers/[slug]`, `/analysis`, `/compare`, `/lineage`, `/sql`, `/methodology`.
+
+## Interface behavior
+
+The archive keeps data and navigation immediate: charts, filtering, sorting and lineage selection do not animate. Shared interaction tokens live in `app/globals.css`; pointer presses receive subtle feedback, while occasional selects and filter sheets use short, origin-aware motion. Keyboard interactions are instant, reduced motion removes spatial movement, and hover styling is limited to fine pointers.
+
+Keyboard focus remains visible across search, navigation and SVG controls. Escape closes mobile navigation or the filter sheet and returns focus to its trigger. Empty ruler searches offer an inline reset. Timeline zoom controls indicate their limits, and the last-inspected caption never describes a filtered-out tenure.
+
+The SQL editor distinguishes engine loading, execution, cancellation, errors and results. Query changes clear previous results; execution keeps the editor read-only until completion or cancellation. CSV feedback reports download initiation, not completion.
+
+For browser QA, exercise the main routes at desktop and narrow mobile widths, then repeat keyboard navigation and filter-sheet/select interactions with reduced motion enabled. Physical-device touch and screen-reader testing remain separate checks from Chromium emulation.
 
 ## Source attribution
 
